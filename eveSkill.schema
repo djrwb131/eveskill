@@ -1,0 +1,58 @@
+CREATE TABLE attribute(
+	id INTEGER PRIMARY KEY,
+	name TEXT UNIQUE NOT NULL
+);
+INSERT INTO attribute(name) VALUES("Perception");
+INSERT INTO attribute(name) VALUES("Memory");
+INSERT INTO attribute(name) VALUES("Willpower");
+INSERT INTO attribute(name) VALUES("Intelligence");
+INSERT INTO attribute(name) VALUES("Charisma");
+
+
+CREATE TABLE skillGroup(
+	id INTEGER PRIMARY KEY,
+	name TEXT UNIQUE NOT NULL
+);
+
+INSERT INTO skillGroup(name) VALUES("Spaceship Command");
+INSERT INTO skillGroup(name) VALUES("Navigation");
+INSERT INTO skillGroup(name) VALUES("Engineering");
+INSERT INTO skillGroup(name) VALUES("Subsystems");
+INSERT INTO skillGroup(name) VALUES("Armor");
+INSERT INTO skillGroup(name) VALUES("Shields");
+INSERT INTO skillGroup(name) VALUES("Targeting");
+INSERT INTO skillGroup(name) VALUES("Gunnery");
+INSERT INTO skillGroup(name) VALUES("Missiles");
+INSERT INTO skillGroup(name) VALUES("Drones");
+INSERT INTO skillGroup(name) VALUES("Electronic Systems");
+INSERT INTO skillGroup(name) VALUES("Scanning");
+INSERT INTO skillGroup(name) VALUES("Rigging");
+INSERT INTO skillGroup(name) VALUES("Social");
+INSERT INTO skillGroup(name) VALUES("Fleet Support");
+INSERT INTO skillGroup(name) VALUES("Corporation Management");
+INSERT INTO skillGroup(name) VALUES("Trade");
+INSERT INTO skillGroup(name) VALUES("Neural Enhancement");
+INSERT INTO skillGroup(name) VALUES("Production");
+INSERT INTO skillGroup(name) VALUES("Science");
+INSERT INTO skillGroup(name) VALUES("Resource Processing");
+INSERT INTO skillGroup(name) VALUES("Planet Management");
+INSERT INTO skillGroup(name) VALUES("Structure Management");
+
+
+CREATE TABLE skill(
+	id INTEGER PRIMARY KEY,
+	name TEXT UNIQUE NOT NULL,
+	desc TEXT,
+	multiplier DECIMAL NOT NULL,
+	cost DECIMAL NOT NULL,
+	primaryID INTEGER REFERENCES attribute(id),
+	secondaryID INTEGER REFERENCES attribute(id) CHECK(secondaryID != primaryID),
+	groupID INTEGER REFERENCES skillGroup(id)
+);
+
+
+CREATE TABLE skillRequirement(
+	skillID INTEGER REFERENCES skill(id),
+	requirementID INTEGER REFERENCES skill(id),
+	level INTEGER NOT NULL CHECK(level >= 1 and level <= 5)
+);
