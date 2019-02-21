@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Skills:Targeting - UniWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.0" />
+<link rel="apple-touch-icon" href="/skins/common/images/logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="UniWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.eveuniversity.org/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="UniWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector%2Cvectorinvert&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skills:Targeting","wgTitle":"Skills:Targeting","wgCurRevisionId":103183,"wgArticleId":7325,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Skills"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Skills:Targeting","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":false,"collapsibletabs":true,"editwarning":false,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":false,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":"MW_MATH_MATHJAX","minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vectorinvert","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,
+"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-js:7:9007fc0670442dca021e81c06c68e9eb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vectorinvert/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skills_Targeting skin-vectorinvert action-view">
+                <div id="mw-page-base" class="noprint"></div>
+                <div id="mw-head-base" class="noprint"></div>
+                <!-- content -->
+                <div id="content">
+                        <a id="top"></a>
+                        <div id="mw-js-message" style="display:none;"></div>
+                                                <!-- firstHeading -->
+                        <h1 id="firstHeading" class="firstHeading">Skills:Targeting</h1>
+                        <!-- /firstHeading -->
+                        <!-- bodyContent -->
+                        <div id="bodyContent">
+                                                                <!-- tagline -->
+                                <div id="siteSub">From UniWiki</div>
+                                <!-- /tagline -->
+                                                                <!-- subtitle -->
+                                <div id="contentSub"></div>
+                                <!-- /subtitle -->
+                                                                                                                                <!-- jumpto -->
+                                <div id="jump-to-nav">
+                                        Jump to: <a href="#mw-head">navigation</a>,
+                                        <a href="#p-search">search</a>
+                                </div>
+                                <!-- /jumpto -->
+                                                                <!-- bodycontent -->
+                                <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 140px; float:right; clear:right; margin-left:1em; margin-bottom:1em; border:1px solid #202020; padding:1px; border-collapse:collapse; text-align:center; font-size:11px">
+
+<tr>
+<th style="background:#000000; font-size:12px;"> Lists of <a href="/Skills_and_Learning" title="Skills and Learning" class="mw-redirect">skills</a>
+</th></tr>
+<tr>
+<td style="background:#202020; font-size:11px;">
+<p><a href="/Starting_Skills" title="Starting Skills" class="mw-redirect">Starting Skills</a><br />
+<a href="/Skills:Armor" title="Skills:Armor">Armor</a><br />
+<a href="/Skills:Corporation_Management" title="Skills:Corporation Management">Corporation Management</a><br />
+<a href="/Skills:Drones" title="Skills:Drones">Drones</a><br />
+<a href="/Skills:Electronic_Systems" title="Skills:Electronic Systems">Electronic Systems</a><br />
+<a href="/Skills:Engineering" title="Skills:Engineering">Engineering</a><br />
+<a href="/Skills:Fleet_Support" title="Skills:Fleet Support">Fleet Support</a><br />
+<a href="/Skills:Gunnery" title="Skills:Gunnery">Gunnery</a><br />
+<a href="/Skills:Missiles" title="Skills:Missiles">Missiles</a><br />
+<a href="/Skills:Navigation" title="Skills:Navigation">Navigation</a><br />
+<a href="/Skills:Neural_Enhancement" title="Skills:Neural Enhancement">Neural Enhancement</a><br />
+<a href="/Skills:Planet_Management" title="Skills:Planet Management">Planet Management</a><br />
+<a href="/Skills:Production" title="Skills:Production">Production</a><br />
+<a href="/Skills:Resource_Processing" title="Skills:Resource Processing">Resource Processing</a><br />
+<a href="/Skills:Rigging" title="Skills:Rigging">Rigging</a><br />
+<a href="/Skills:Scanning" title="Skills:Scanning">Scanning</a><br />
+<a href="/Skills:Science" title="Skills:Science">Science</a><br />
+<a href="/Skills:Shields" title="Skills:Shields">Shields</a><br />
+<a href="/Skills:Social" title="Skills:Social">Social</a><br />
+<a href="/Skills:Spaceship_Command" title="Skills:Spaceship Command">Spaceship Command</a><br />
+<a href="/Skills:Structure_Management" title="Skills:Structure Management">Structure Management</a><br />
+<a href="/Skills:Subsystems" title="Skills:Subsystems">Subsystems</a><br />
+<strong class="selflink">Targeting</strong><br />
+<a href="/Skills:Trade" title="Skills:Trade">Trade</a>
+</p>
+</td></tr></table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Skill_Details"><span class="tocnumber">2</span> <span class="toctext">Skill Details</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Advanced_Target_Management"><span class="tocnumber">2.1</span> <span class="toctext">Advanced Target Management</span></a></li>
+<li class="toclevel-2"><a href="#Gravimetric_Sensor_Compensation"><span class="tocnumber">2.2</span> <span class="toctext">Gravimetric Sensor Compensation</span></a></li>
+<li class="toclevel-2"><a href="#Ladar_Sensor_Compensation"><span class="tocnumber">2.3</span> <span class="toctext">Ladar Sensor Compensation</span></a></li>
+<li class="toclevel-2"><a href="#Long_Range_Targeting"><span class="tocnumber">2.4</span> <span class="toctext">Long Range Targeting</span></a></li>
+<li class="toclevel-2"><a href="#Magnetometric_Sensor_Compensation"><span class="tocnumber">2.5</span> <span class="toctext">Magnetometric Sensor Compensation</span></a></li>
+<li class="toclevel-2"><a href="#Radar_Sensor_Compensation"><span class="tocnumber">2.6</span> <span class="toctext">Radar Sensor Compensation</span></a></li>
+<li class="toclevel-2"><a href="#Signature_Analysis"><span class="tocnumber">2.7</span> <span class="toctext">Signature Analysis</span></a></li>
+<li class="toclevel-2"><a href="#Target_Management"><span class="tocnumber">2.8</span> <span class="toctext">Target Management</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Overview">Overview</span></h1>
+<p>This has all the targeting related and all the “Sensor Compensation” skills, which help pilots lock onto more targets, faster, and at longer ranges.
+</p>
+<table class="wikitable">
+<tr>
+<th>Skill
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management</a></span>
+</td>
+<td>Bonus to max number of targets.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Gravimetric_Sensor_Compensation" title="Skills:Targeting">Gravimetric Sensor Compensation</a></span>
+</td>
+<td>Increases resistance to ECM.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Ladar_Sensor_Compensation" title="Skills:Targeting">Ladar Sensor Compensation</a></span>
+</td>
+<td>Increases resistance to ECM.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Long_Range_Targeting" title="Skills:Targeting">Long Range Targeting</a></span>
+</td>
+<td>Bonus to targeting range.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Magnetometric_Sensor_Compensation" title="Skills:Targeting">Magnetometric Sensor Compensation</a></span>
+</td>
+<td>Increases resistance to ECM.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Radar_Sensor_Compensation" title="Skills:Targeting">Radar Sensor Compensation</a></span>
+</td>
+<td>Increases resistance to ECM.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Signature_Analysis" title="Skills:Targeting">Signature Analysis</a></span>
+</td>
+<td>Bonus to Scan Resolution.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management</a></span>
+</td>
+<td>Increases max number of targets.
+</td></tr></table>
+<h1> <span class="mw-headline" id="Skill_Details">Skill Details</span></h1>
+<h2> <span class="mw-headline" id="Advanced_Target_Management"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Advanced Target Management</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at targeting multiple targets. +1 extra target per skill level, up to the ship's maximum allowed number of targets locked.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 500k ISK">500k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management&#160;V</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management&#160;V</a></span> is a prerequisite, and should give most people enough targets (remember that targeting skills can't increase your maximum locked targets beyond the hard limit of your ship hull), so many pilots can get away without training <span style="white-space:nowrap;"><a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management</a></span>. It is however, useful for advanced ewar pilots (the Rook, for example, can lock 10 targets if you have <span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management&#160;V</a></span> and <span style="white-space:nowrap;"><a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management&#160;III</a></span>) and logistics pilots.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Gravimetric_Sensor_Compensation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Gravimetric Sensor Compensation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at hardening Gravimetric Sensors against hostile Electronic Counter Measure modules. 4% improved Gravimetric Sensor Strength per skill level.
+Gravimetric Sensors are primarily found on Caldari, Guristas and Mordu's Legion ships.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>An excellent, priority support skill for appropriate ships.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Ladar_Sensor_Compensation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ladar Sensor Compensation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at hardening Ladar Sensors against hostile Electronic Counter Measure modules. 4% improved Ladar Sensor Strength per skill level.
+Ladar Sensors are primarily found on Minmatar and Angel ships.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>An excellent, priority support skill for appropriate ships.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Long_Range_Targeting"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Long Range Targeting</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at long range targeting. 5% Bonus to targeting range per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 88k ISK">88k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;II</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Sensor Boosters
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Sensor Booster II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Logistics_Cruisers" title="Skills:Spaceship Command">Logistics Cruisers</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Electronic_Attack_Ships" title="Skills:Spaceship Command">Electronic Attack Ships</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Useful for all combat pilots, and key for snipers and ewar pilots.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Magnetometric_Sensor_Compensation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Magnetometric Sensor Compensation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at hardening Magnetometric Sensors against hostile Electronic Counter Measure modules. 4% improved Magnetometric Sensor Strength per skill level.
+Magnetometric Sensors are primarily found on Gallente, Serpentis, ORE and Sisters of EVE ships.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>An excellent, priority support skill for appropriate ships.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Radar_Sensor_Compensation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Radar Sensor Compensation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at hardening Radar Sensors against hostile Electronic Counter Measure modules. 4% improved Radar Sensor Strength per skill level.
+Radar Sensors are primarily found on Amarr, Blood Raider and Sanshas ships.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>An excellent, priority support skill for appropriate ships.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Signature_Analysis"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Signature Analysis</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at operating Targeting systems. 5% improved targeting speed per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 75k ISK">75k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;I</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Logistics_Cruisers" title="Skills:Spaceship Command">Logistics Cruisers</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Recon_Ships" title="Skills:Spaceship Command">Recon Ships</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Logistics_Frigates" title="Skills:Spaceship Command">Logistics Frigates</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Important targeting skill for combat pilots; targeting things earlier means tackling/shooting/jamming them earlier. Train it to IV, and consider training it to V in the long term.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Target_Management"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Target Management</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at targeting multiple targets. +1 extra target per skill level, up to the ship's maximum allowed number of targets locked.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Auto Targeting Systems; Tech 1 Passive Targeters
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Passive Targeter II
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Auto Targeting System II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Important combat support skill. Train it to at least IV (which allows up to 6 targets, unless the ship is not capable of that number).  The number of targets that you can lock in a particular ship is the <b>lesser</b> of either (2 + <span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management</a></span> skill + <span style="white-space:nowrap;"><a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management</a></span> skill) or the ship's maximum targets (which can be increased with modules like Auto Targeting System or Signal Amplifier).  No pilot can lock more then 12 targets (due to the skill limits) and they will have to train both <span style="white-space:nowrap;"><a href="/Skills:Targeting#Target_Management" title="Skills:Targeting">Target Management&#160;V</a></span> and <span style="white-space:nowrap;"><a href="/Skills:Targeting#Advanced_Target_Management" title="Skills:Targeting">Advanced Target Management&#160;V</a></span> to do so.<br />
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 42206/1000000
+Post-expand include size: 49264/2097152 bytes
+Template argument size: 13712/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki-wiki_:pcache:idhash:7325-0!*!0!!en!2!* and timestamp 20190220170503 -->
+</div>                                <!-- /bodycontent -->
+ 
+                                                                <!-- printfooter -->
+                                <div class="printfooter">
+                                Retrieved from "<a href="https://wiki.eveuniversity.org/index.php?title=Skills:Targeting&amp;oldid=103183">https://wiki.eveuniversity.org/index.php?title=Skills:Targeting&amp;oldid=103183</a>"                                </div>
+                                <!-- /printfooter -->
+                                                                                                <!-- catlinks -->
+                                <div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Skills" title="Category:Skills">Skills</a></li></ul></div></div>                                <!-- /catlinks -->
+                                                                                                <div class="visualClear"></div>
+                                <!-- debughtml -->
+                                                                <!-- /debughtml -->
+                        </div>
+                        <!-- /bodyContent -->
+                </div>
+                <!-- /content -->
+ 
+                <!-- header -->
+    <div id="mw-head" class="noprint">
+      
+<!-- 0 -->
+<div id="p-personal" class="">
+        <h5>Personal tools</h5>
+        <ul>
+                <li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skills%3ATargeting" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 
+        </ul>
+</div>
+
+<!-- /0 -->
+   
+      <div id="left-navigation">
+         
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+        <h5>Namespaces</h5>
+        <ul>
+                                        <li  id="ca-nstab-main" class="selected"><span><a href="/Skills:Targeting"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+                                        <li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Skills:Targeting&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+                <h5><span>Variants</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+      </div>
+      <div id="right-navigation">
+        
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+        <h5>Views</h5>
+        <ul>
+                                        <li id="ca-view" class="selected"><span><a href="/Skills:Targeting" >View</a></span></li>
+                                        <li id="ca-viewsource"><span><a href="/index.php?title=Skills:Targeting&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+                                        <li id="ca-history" class="collapsible"><span><a href="/index.php?title=Skills:Targeting&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+        <h5><span>Actions</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-search">
+        <h5><label for="searchInput">Search</label></h5>
+        <form action="/index.php" id="searchform">
+                <input type='hidden' name="title" value="Special:Search"/>
+                                <div id="simpleSearch">
+                                                <input name="search" title="Search UniWiki [f]" accesskey="f" id="searchInput" />                                                <button name="button" title="Search the pages for this text" id="searchButton"><img src="/skins/vectorinvert/images/search-ltr.png?303" alt="Search" /></button>                                        </div>
+                        </form>
+</div>
+
+<!-- /0 -->
+      </div>
+    </div>
+        <!-- /header -->
+ 
+                <!-- panel -->
+                        <div id="mw-panel" class="noprint">
+                                <!-- logo -->
+                                        <div id="p-logo"><a style="background-image: url(/skins/common/images/logo.png);" href="/Main_Page"  title="Visit the main page"></a></div>
+                                <!-- /logo -->
+                                
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+        <h5>Navigation</h5>
+        <div class="body">
+                <ul>
+<li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Categories"><a href="/Special:Categories">Categories</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="/Help:Contents" title="The place to find out">Help</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- EVE University -->
+<div class="portal" id='p-EVE_University'>
+        <h5>EVE University</h5>
+        <div class="body">
+                <ul>
+<li id="n-Join-E-UNI"><a href="/Applying_to_EVE_University">Join E-UNI</a></li><li id="n-Forum"><a href="http://forum.eveuniversity.org" rel="nofollow" target="_blank">Forum</a></li><li id="n-Class-Library"><a href="/EVE_University_Class_Library">Class Library</a></li><li id="n-Attending-a-Class"><a href="/Classes">Attending a Class</a></li><li id="n-Calendar"><a href="http://calendar.eveuniversity.org" rel="nofollow" target="_blank">Calendar</a></li><li id="n-Killboard"><a href="http://killboard.eveuniversity.org" rel="nofollow" target="_blank">Killboard</a></li><li id="n-Members"><a href="http://members.eveuniversity.org" rel="nofollow" target="_blank">Members</a></li><li id="n-Standings"><a href="http://standings.eveuniversity.org" rel="nofollow" target="_blank">Standings</a></li><li id="n-News"><a href="http://www.eveuniversity.org" rel="nofollow" target="_blank">News</a></li><li id="n-Donate"><a href="/Donating_to_EVE_University">Donate</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /EVE University -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+        <h5>Toolbox</h5>
+        <div class="body">
+                <ul>
+<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Skills:Targeting" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Skills:Targeting" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li><a href="/index.php?title=Skills:Targeting&amp;printable=yes" rel="alternate">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Skills:Targeting&amp;oldid=103183" title="Permanent link to this revision of the page">Permanent link</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+                        </div>
+                <!-- /panel -->
+                <!-- footer -->
+                <div id="footer">
+                                                        <ul id="footer-info">
+                                                                                        <li id="footer-info-lastmod"> This page was last modified on 19 December 2016, at 17:57.</li>
+                                                                                        <li id="footer-info-viewcount">This page has been accessed 34,609 times.</li>
+                                                                                        <li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a>.</li>
+                                                                        </ul>
+                                                        <ul id="footer-places">
+                                                                                        <li id="footer-places-privacy"><a href="/UniWiki:Privacy_policy" title="UniWiki:Privacy policy">Privacy policy</a></li>
+                                                                                        <li id="footer-places-about"><a href="/UniWiki:About" title="UniWiki:About">About UniWiki</a></li>
+                                                                                        <li id="footer-places-disclaimer"><a href="/UniWiki:General_disclaimer" title="UniWiki:General disclaimer">Disclaimers</a></li>
+                                                                        </ul>
+                                                                                <ul id="footer-icons" class="noprint">
+                                        <li id="footer-copyrightico">
+                                                <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Creative Commons" width="88" height="31" /></a>                                        </li>
+                                        <li id="footer-poweredbyico">
+                                                <a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>                                                <a href="https://billing.dediserve.com/?affid=68"><img src="/images/dediserve_88x31.gif" alt="Powered by Dediserve" width="88" height="31" /></a>                                        </li>
+                                </ul>
+                                                <div style="clear:both"></div>
+                </div>
+                <!-- /footer -->
+                <!-- fixalpha -->
+                <script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+                <!-- /fixalpha -->
+                <script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector%2Cvectorinvert&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.vector.collapsibleTabs","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18168954-1']);
+  _gaq.push(['_setDomainName', '.eveuniversity.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Served in 0.048 secs. --> 
+        </body>
+</html>

@@ -1,0 +1,1908 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Skills:Missiles - UniWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.0" />
+<link rel="apple-touch-icon" href="/skins/common/images/logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="UniWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.eveuniversity.org/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="UniWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector%2Cvectorinvert&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skills:Missiles","wgTitle":"Skills:Missiles","wgCurRevisionId":140549,"wgArticleId":6739,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Skills"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Skills:Missiles","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":false,"collapsibletabs":true,"editwarning":false,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":false,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":"MW_MATH_MATHJAX","minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vectorinvert","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,
+"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-js:7:9007fc0670442dca021e81c06c68e9eb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vectorinvert/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skills_Missiles skin-vectorinvert action-view">
+                <div id="mw-page-base" class="noprint"></div>
+                <div id="mw-head-base" class="noprint"></div>
+                <!-- content -->
+                <div id="content">
+                        <a id="top"></a>
+                        <div id="mw-js-message" style="display:none;"></div>
+                                                <!-- firstHeading -->
+                        <h1 id="firstHeading" class="firstHeading">Skills:Missiles</h1>
+                        <!-- /firstHeading -->
+                        <!-- bodyContent -->
+                        <div id="bodyContent">
+                                                                <!-- tagline -->
+                                <div id="siteSub">From UniWiki</div>
+                                <!-- /tagline -->
+                                                                <!-- subtitle -->
+                                <div id="contentSub"></div>
+                                <!-- /subtitle -->
+                                                                                                                                <!-- jumpto -->
+                                <div id="jump-to-nav">
+                                        Jump to: <a href="#mw-head">navigation</a>,
+                                        <a href="#p-search">search</a>
+                                </div>
+                                <!-- /jumpto -->
+                                                                <!-- bodycontent -->
+                                <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 140px; float:right; clear:right; margin-left:1em; margin-bottom:1em; border:1px solid #202020; padding:1px; border-collapse:collapse; text-align:center; font-size:11px">
+
+<tr>
+<th style="background:#000000; font-size:12px;"> Lists of <a href="/Skills_and_Learning" title="Skills and Learning" class="mw-redirect">skills</a>
+</th></tr>
+<tr>
+<td style="background:#202020; font-size:11px;">
+<p><a href="/Starting_Skills" title="Starting Skills" class="mw-redirect">Starting Skills</a><br />
+<a href="/Skills:Armor" title="Skills:Armor">Armor</a><br />
+<a href="/Skills:Corporation_Management" title="Skills:Corporation Management">Corporation Management</a><br />
+<a href="/Skills:Drones" title="Skills:Drones">Drones</a><br />
+<a href="/Skills:Electronic_Systems" title="Skills:Electronic Systems">Electronic Systems</a><br />
+<a href="/Skills:Engineering" title="Skills:Engineering">Engineering</a><br />
+<a href="/Skills:Fleet_Support" title="Skills:Fleet Support">Fleet Support</a><br />
+<a href="/Skills:Gunnery" title="Skills:Gunnery">Gunnery</a><br />
+<strong class="selflink">Missiles</strong><br />
+<a href="/Skills:Navigation" title="Skills:Navigation">Navigation</a><br />
+<a href="/Skills:Neural_Enhancement" title="Skills:Neural Enhancement">Neural Enhancement</a><br />
+<a href="/Skills:Planet_Management" title="Skills:Planet Management">Planet Management</a><br />
+<a href="/Skills:Production" title="Skills:Production">Production</a><br />
+<a href="/Skills:Resource_Processing" title="Skills:Resource Processing">Resource Processing</a><br />
+<a href="/Skills:Rigging" title="Skills:Rigging">Rigging</a><br />
+<a href="/Skills:Scanning" title="Skills:Scanning">Scanning</a><br />
+<a href="/Skills:Science" title="Skills:Science">Science</a><br />
+<a href="/Skills:Shields" title="Skills:Shields">Shields</a><br />
+<a href="/Skills:Social" title="Skills:Social">Social</a><br />
+<a href="/Skills:Spaceship_Command" title="Skills:Spaceship Command">Spaceship Command</a><br />
+<a href="/Skills:Structure_Management" title="Skills:Structure Management">Structure Management</a><br />
+<a href="/Skills:Subsystems" title="Skills:Subsystems">Subsystems</a><br />
+<a href="/Skills:Targeting" title="Skills:Targeting">Targeting</a><br />
+<a href="/Skills:Trade" title="Skills:Trade">Trade</a>
+</p>
+</td></tr></table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Support_Skills"><span class="tocnumber">2</span> <span class="toctext">Support Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Missile_Launcher_Operation"><span class="tocnumber">2.1</span> <span class="toctext">Missile Launcher Operation</span></a></li>
+<li class="toclevel-2"><a href="#Guided_Missile_Precision"><span class="tocnumber">2.2</span> <span class="toctext">Guided Missile Precision</span></a></li>
+<li class="toclevel-2"><a href="#Missile_Bombardment"><span class="tocnumber">2.3</span> <span class="toctext">Missile Bombardment</span></a></li>
+<li class="toclevel-2"><a href="#Missile_Projection"><span class="tocnumber">2.4</span> <span class="toctext">Missile Projection</span></a></li>
+<li class="toclevel-2"><a href="#Rapid_Launch"><span class="tocnumber">2.5</span> <span class="toctext">Rapid Launch</span></a></li>
+<li class="toclevel-2"><a href="#Target_Navigation_Prediction"><span class="tocnumber">2.6</span> <span class="toctext">Target Navigation Prediction</span></a></li>
+<li class="toclevel-2"><a href="#Warhead_Upgrades"><span class="tocnumber">2.7</span> <span class="toctext">Warhead Upgrades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Rockets_and_Light_Missiles"><span class="tocnumber">3</span> <span class="toctext">Rockets and Light Missiles</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Rockets"><span class="tocnumber">3.1</span> <span class="toctext">Rockets</span></a></li>
+<li class="toclevel-2"><a href="#Rocket_Specialization"><span class="tocnumber">3.2</span> <span class="toctext">Rocket Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Light_Missiles"><span class="tocnumber">3.3</span> <span class="toctext">Light Missiles</span></a></li>
+<li class="toclevel-2"><a href="#Light_Missile_Specialization"><span class="tocnumber">3.4</span> <span class="toctext">Light Missile Specialization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Heavy_Missiles"><span class="tocnumber">4</span> <span class="toctext">Heavy Missiles</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Heavy_Missiles_2"><span class="tocnumber">4.1</span> <span class="toctext">Heavy Missiles</span></a></li>
+<li class="toclevel-2"><a href="#Heavy_Missile_Specialization"><span class="tocnumber">4.2</span> <span class="toctext">Heavy Missile Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Heavy_Assault_Missiles"><span class="tocnumber">4.3</span> <span class="toctext">Heavy Assault Missiles</span></a></li>
+<li class="toclevel-2"><a href="#Heavy_Assault_Missile_Specialization"><span class="tocnumber">4.4</span> <span class="toctext">Heavy Assault Missile Specialization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Cruise_Missiles_and_Torpedoes"><span class="tocnumber">5</span> <span class="toctext">Cruise Missiles and Torpedoes</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Cruise_Missiles"><span class="tocnumber">5.1</span> <span class="toctext">Cruise Missiles</span></a></li>
+<li class="toclevel-2"><a href="#Cruise_Missile_Specialization"><span class="tocnumber">5.2</span> <span class="toctext">Cruise Missile Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Torpedoes"><span class="tocnumber">5.3</span> <span class="toctext">Torpedoes</span></a></li>
+<li class="toclevel-2"><a href="#Torpedo_Specialization"><span class="tocnumber">5.4</span> <span class="toctext">Torpedo Specialization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#XL_Cruise_Missiles_and_Torpedoes"><span class="tocnumber">6</span> <span class="toctext">XL Cruise Missiles and Torpedoes</span></a>
+<ul>
+<li class="toclevel-2"><a href="#XL_Cruise_Missiles"><span class="tocnumber">6.1</span> <span class="toctext">XL Cruise Missiles</span></a></li>
+<li class="toclevel-2"><a href="#XL_Cruise_Missile_Specialization"><span class="tocnumber">6.2</span> <span class="toctext">XL Cruise Missile Specialization</span></a></li>
+<li class="toclevel-2"><a href="#XL_Torpedoes"><span class="tocnumber">6.3</span> <span class="toctext">XL Torpedoes</span></a></li>
+<li class="toclevel-2"><a href="#XL_Torpedo_Specialization"><span class="tocnumber">6.4</span> <span class="toctext">XL Torpedo Specialization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Other_Skills"><span class="tocnumber">7</span> <span class="toctext">Other Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Auto-Targeting_Missiles"><span class="tocnumber">7.1</span> <span class="toctext">Auto-Targeting Missiles</span></a></li>
+<li class="toclevel-2"><a href="#Bomb_Deployment"><span class="tocnumber">7.2</span> <span class="toctext">Bomb Deployment</span></a></li>
+<li class="toclevel-2"><a href="#Defender_Missiles"><span class="tocnumber">7.3</span> <span class="toctext">Defender Missiles</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Overview">Overview</span></h1>
+<p>These skills are important for anyone who uses <a href="/Missile_Launchers" title="Missile Launchers" class="mw-redirect">missile launchers</a>. Training missile skills will be key for most Caldari combat pilots, but some Minmatar and Amarr ships use missiles too, as secondary or even as primary weapons.
+</p><p>Perception and Willpower are important for perfecting your skill at missiles.
+</p><p>The following are the skills in the Missiles section (in alphabetical order):
+</p>
+<table class="wikitable">
+<tr>
+<th>Skill
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Auto-Targeting_Missiles" title="Skills:Missiles">Auto-Targeting Missiles</a></span>
+</td>
+<td>Use and operation of Auto-Targeting Missiles
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Bomb_Deployment" title="Skills:Missiles">Bomb Deployment</a></span>
+</td>
+<td>Use and operation of bombs used by Stealth Bombers.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Cruise_Missile_Specialization" title="Skills:Missiles">Cruise Missile Specialization</a></span>
+</td>
+<td>Allows use of T2 Cruise Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Cruise_Missiles" title="Skills:Missiles">Cruise Missiles</a></span>
+</td>
+<td>Use and operation of Cruise Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Defender_Missiles" title="Skills:Missiles">Defender Missiles</a></span>
+</td>
+<td>Use and operation of Defender Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Guided_Missile_Precision" title="Skills:Missiles">Guided Missile Precision</a></span>
+</td>
+<td>Increased damage to small targets.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Assault_Missile_Specialization" title="Skills:Missiles">Heavy Assault Missile Specialization</a></span>
+</td>
+<td>Allows use of T2 Heavy Assault Missiles (HAM).
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Assault_Missiles" title="Skills:Missiles">Heavy Assault Missiles</a></span>
+</td>
+<td>Use and operation of Heavy Assault Missiles (HAM).
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Missile_Specialization" title="Skills:Missiles">Heavy Missile Specialization</a></span>
+</td>
+<td>Allows use of T2 Heavy Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles</a></span>
+</td>
+<td>Use and operation of Heavy Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Bombardment" title="Skills:Missiles">Missile Bombardment</a></span>
+</td>
+<td>Bonus to missile flight time (increases range).
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation</a></span>
+</td>
+<td>Basic missile skill and bonus to rate of fire.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Projection" title="Skills:Missiles">Missile Projection</a></span>
+</td>
+<td>Bonus to missile velocity (increases range).
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Rapid_Launch" title="Skills:Missiles">Rapid Launch</a></span>
+</td>
+<td>Bonus to rate of fire.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Rocket_Specialization" title="Skills:Missiles">Rocket Specialization</a></span>
+</td>
+<td>Allows use of T2 Rockets.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Rockets" title="Skills:Missiles">Rockets</a></span>
+</td>
+<td>Use and operation of Rockets.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Light_Missile_Specialization" title="Skills:Missiles">Light Missile Specialization</a></span>
+</td>
+<td>Allows use of T2 Light Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Light_Missiles" title="Skills:Missiles">Light Missiles</a></span>
+</td>
+<td>Use and operation of Light Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Target_Navigation_Prediction" title="Skills:Missiles">Target Navigation Prediction</a></span>
+</td>
+<td>More damage against fast moving targets.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Torpedo_Specialization" title="Skills:Missiles">Torpedo Specialization</a></span>
+</td>
+<td>Allows use of T2 Torpedoes.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Torpedoes" title="Skills:Missiles">Torpedoes</a></span>
+</td>
+<td>Use and operation of Torpedoes.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Warhead_Upgrades" title="Skills:Missiles">Warhead Upgrades</a></span>
+</td>
+<td>Increased damage to all missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Cruise_Missile_Specialization" title="Skills:Missiles">XL Cruise Missile Specialization</a></span>
+</td>
+<td>Allows use of T2 XL Cruise Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Cruise_Missiles" title="Skills:Missiles">XL Cruise Missiles</a></span>
+</td>
+<td>Use and operation of XL Cruise Missiles.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Torpedo_Specialization" title="Skills:Missiles">XL Torpedo Specialization</a></span>
+</td>
+<td>Allows use of T2 XL Torpedoes.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Torpedoes" title="Skills:Missiles">XL Torpedoes</a></span>
+</td>
+<td>Use and operation of XL Torpedoes.
+</td></tr></table>
+<h1> <span class="mw-headline" id="Support_Skills">Support Skills</span></h1>
+<p>These skills are generally not needed to fit hardware (there are a couple of exceptions, which are noted) but support missile deployment and maximise damage. Increasing the level in any of these skills will increase your proficiency with missiles.
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Missile_Launcher_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Missile Launcher Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Basic operation of missile launcher systems. 2% Bonus to missile launcher rate of fire per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 20k ISK">20k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td>none
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Missile Launchers and Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Assault_Missile_Specialization" title="Skills:Missiles">Heavy Assault Missile Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Rocket_Specialization" title="Skills:Missiles">Rocket Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Light_Missile_Specialization" title="Skills:Missiles">Light Missile Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Missile_Specialization" title="Skills:Missiles">Heavy Missile Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Cruise_Missile_Specialization" title="Skills:Missiles">Cruise Missile Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Torpedo_Specialization" title="Skills:Missiles">Torpedo Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Rockets" title="Skills:Missiles">Rockets</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Missile_Bombardment" title="Skills:Missiles">Missile Bombardment</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Cruise_Missile_Specialization" title="Skills:Missiles">XL Cruise Missile Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Torpedo_Specialization" title="Skills:Missiles">XL Torpedo Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Structure_Management#Structure_Missile_Systems" title="Skills:Structure Management">Structure Missile Systems</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Rocket Launcher II; Polarized Rocket Launcher; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Target_Navigation_Prediction" title="Skills:Missiles">Target Navigation Prediction</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Light_Missiles" title="Skills:Missiles">Light Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Auto-Targeting_Missiles" title="Skills:Missiles">Auto-Targeting Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Rapid_Launch" title="Skills:Missiles">Rapid Launch</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Rapid Light Missile Launcher II; Light Missile Launcher II; Rapid Heavy Missile Launcher II; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Subsystems#Minmatar_Offensive_Systems" title="Skills:Subsystems">Minmatar Offensive Systems</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Assault_Missiles" title="Skills:Missiles">Heavy Assault Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Missile_Projection" title="Skills:Missiles">Missile Projection</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Heavy Assault Missile Launcher II; Heavy Missile Launcher II; Tech 2 Torpedo Launchers; Polarized Heavy Assault Missile Launcher; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Warhead_Upgrades" title="Skills:Missiles">Warhead Upgrades</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Torpedoes" title="Skills:Missiles">Torpedoes</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Guided_Missile_Precision" title="Skills:Missiles">Guided Missile Precision</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Missiles; XL Torpedo Launchers; XL Cruise Missile Launchers; Tech 1 and Faction Rapid Torpedo Launchers; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Cruise_Missiles" title="Skills:Missiles">XL Cruise Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Subsystems#Caldari_Offensive_Systems" title="Skills:Subsystems">Caldari Offensive Systems</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Cruise_Missiles" title="Skills:Missiles">Cruise Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Torpedoes" title="Skills:Missiles">XL Torpedoes</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>The base skill of the missiles category. Plan to train it to V in the medium term if you use missiles, even if you only use them as a secondary weapon.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Guided_Missile_Precision"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Guided Missile Precision</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at precision missile homing. Proficiency at this skill increases the accuracy of a fired missile's exact point of impact, resulting in greater damage to small targets. 5% decreased factor of signature radius for all missile explosions per level of skill.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 500k ISK">500k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Helpful support skill once you start using medium and large missiles, as now and then you will need to kill small targets with them.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Missile_Bombardment"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Missile Bombardment</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at long-range missile combat. 10% bonus to all missiles' maximum flight time per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 80k ISK">80k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Bomb_Deployment" title="Skills:Missiles">Bomb Deployment</a></span>
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A flight time bonus is effectively a range bonus.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Missile_Projection"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Missile Projection</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at boosting missile bay trigger circuits and enhancing guided missiles' ignition systems. 10% bonus to all missiles' maximum velocity per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A bonus to velocity is a bonus to missile range.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Rapid_Launch"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Rapid Launch</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at rapid missile launcher firing. 3% bonus to missile launcher rate of fire per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 40k ISK">40k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;II</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>DPS boost. Essential support skill.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Target_Navigation_Prediction"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Target Navigation Prediction</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at optimizing a missile's flight path to negate the effects of a target's speed upon the explosion's impact. 10% decrease per level in factor of target's velocity for all missiles.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 60k ISK">60k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;II</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Like <span style="white-space:nowrap;"><a href="/Skills:Missiles#Guided_Missile_Precision" title="Skills:Missiles">Guided Missile Precision</a></span>, this skill helps you hurt small targets with large missiles.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Warhead_Upgrades"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Warhead Upgrades</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at upgrading missile warheads with deadlier payloads. 2% bonus to all missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 1M ISK">1M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>DPS boost. Essential support skill.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Rockets_and_Light_Missiles">Rockets and Light Missiles</span></h1>
+<p>Rockets and light missiles are generally fitted to frigates (and sometimes cruisers) and are best for dealing damage to frigates.
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Rockets"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Rockets</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with small short range missiles. Special: 5% bonus to rocket damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 10k ISK">10k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Rocket Launchers; Tech 1 and Faction Rockets
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Rockets; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Rocket_Specialization" title="Skills:Missiles">Rocket Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Rocket_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Rocket Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced rocket launchers. 2% bonus per level to the rate of fire of modules requiring Rocket Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 1M ISK">1M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Rockets" title="Skills:Missiles">Rockets&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Rocket Launcher II; Polarized Rocket Launcher; Tech 2 Rockets
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Light_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Light Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with manually targeted missiles. Special: 5% Bonus to light missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 20k ISK">20k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;II</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Light Missile Launchers; Tech 1 and Faction Light Missiles
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Assault_Missiles" title="Skills:Missiles">Heavy Assault Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Light Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Light_Missile_Specialization" title="Skills:Missiles">Light Missile Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Light_Missile_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Light Missile Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced light missile launchers and arrays. 2% bonus per level to the rate of fire of modules requiring Light Missile Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 1M ISK">1M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Light_Missiles" title="Skills:Missiles">Light Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Rapid Light Missile Launcher II; Light Missile Launcher II; Tech 2 Light Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Heavy_Missiles">Heavy Missiles</span></h1>
+<p>Heavy Missiles are the bigger brother versions of Rockets and Light Missiles. These can be fitted to cruises and battlecruisers. They deal greater damage than Rockets and Light Missiles however are most effective against larger vessels such as battlecruisers and battleships and not very effective against frigates.
+</p><p>There are two main types: Heavy Missiles and Heavy Assault Missiles. The Assault variation can inflict more damage however has a greatly reduced range relative to Heavy Missiles which can have great ranges (50+km).
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Missiles_2"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with heavy missiles. Special: 5% bonus to heavy missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;III</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Light_Missiles" title="Skills:Missiles">Light Missiles&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Heavy Missiles Launchers; Tech 1 and Faction Heavy Missiles
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Torpedoes" title="Skills:Missiles">Torpedoes</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Cruise_Missiles" title="Skills:Missiles">Cruise Missiles</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Heavy Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Missile_Specialization" title="Skills:Missiles">Heavy Missile Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Missile_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Missile Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced heavy missile launchers. 2% bonus per level to the rate of fire of modules requiring Heavy Missile Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 3M ISK">3M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Heavy Missile Launcher II; Rapid Heavy Missile Launcher II; Tech 2 Heavy Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Assault_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Assault Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with heavy assault missiles. Special: 5% bonus to heavy assault missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;III</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Light_Missiles" title="Skills:Missiles">Light Missiles&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Heavy Assault Missile Launchers; Tech 1 and Faction Heavy Assault Missiles
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Heavy Assault Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Heavy_Assault_Missile_Specialization" title="Skills:Missiles">Heavy Assault Missile Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Assault_Missile_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Assault Missile Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced heavy assault missile launchers. 2% bonus per level to the rate of fire of modules requiring Heavy Assault Missile Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 3M ISK">3M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Assault_Missiles" title="Skills:Missiles">Heavy Assault Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Heavy Missile Launcher II; Polarized Heavy Assault Missile Launcher; Tech 2 Heavy Assault Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Cruise_Missiles_and_Torpedoes">Cruise Missiles and Torpedoes</span></h1>
+<p>Cruise Missiles fit to battleships and--like Heavy to Light--have a greater damage output but are effective against bigger ships such as battleships and capitals.
+</p><p>Cruise Missiles are guided whereas Torpedoes are not. This is a disadvantage of using Torpedoes, however their DPS is generally greater than Cruise Missiles.
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Cruise_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Cruise Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the handling and firing of very large guided missiles. 5% bonus to cruise missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 350k ISK">350k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Cruise Missile Launchers; Tech 1 and Faction Cruise Missiles
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Cruise Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Cruise_Missiles" title="Skills:Missiles">XL Cruise Missiles</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Cruise_Missile_Specialization" title="Skills:Missiles">Cruise Missile Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Cruise_Missile_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Cruise Missile Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced cruise missile launchers. 2% bonus per level to the rate of fire of modules requiring Cruise Missile Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 9M ISK">9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Cruise_Missiles" title="Skills:Missiles">Cruise Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Cruise Missile Launcher II; Tech 2 Cruise Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Torpedoes"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Torpedoes</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the handling and firing of torpedoes. 5% bonus to torpedo damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 400k ISK">400k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Heavy_Missiles" title="Skills:Missiles">Heavy Missiles&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Torpedo Launchers; Tech 1 and Faction Torpedoes
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Torpedoes; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#Torpedo_Specialization" title="Skills:Missiles">Torpedo Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Torpedoes" title="Skills:Missiles">XL Torpedoes</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Torpedo_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Torpedo Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced torpedo launchers. 2% bonus per level to the rate of fire of modules requiring Torpedo Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 9M ISK">9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Torpedoes" title="Skills:Missiles">Torpedoes&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Torpedo Launcher II; Polarized Torpedo Launcher; Rapid Torpedo Launcher II; Tech 2 Torpedoes
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="XL_Cruise_Missiles_and_Torpedoes">XL Cruise Missiles and Torpedoes</span></h1>
+<p>Similar to Cruise Missiles and Torpedoes. Fitted to capital ships.
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="XL_Cruise_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> XL Cruise Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the handling and firing of XL Cruise Missiles. 5% bonus to XL Cruise Missile damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 7x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 6 weeks to train to level V (assuming no implants or neural remaps).">7x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 15M ISK">15M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Cruise_Missiles" title="Skills:Missiles">Cruise Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction XL Cruise Missile Launchers; T1 and Faction XL Cruise Missiles
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>XL Cruise Missile Launcher II; Tech 2 XL Cruise Missiles; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Cruise_Missile_Specialization" title="Skills:Missiles">XL Cruise Missile Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>For capital-sized long-range missile launchers.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="XL_Cruise_Missile_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> XL Cruise Missile Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced XL cruise missile launchers. 2% bonus per level to the rate of fire of modules requiring XL Cruise Missile Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 10x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 2 days to train to level III, and 8 weeks to train to level V (assuming no implants or neural remaps).">10x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 27M ISK">27M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Cruise_Missiles" title="Skills:Missiles">XL Cruise Missiles&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>XL Cruise Missile Launcher II; Tech 2 XL Cruise Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="XL_Torpedoes"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> XL Torpedoes</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the handling and firing of XL Torpedoes. 5% bonus to XL Torpedo damage per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 7x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 6 weeks to train to level V (assuming no implants or neural remaps).">7x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 15M ISK">15M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#Torpedoes" title="Skills:Missiles">Torpedoes&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction XL Torpedo Launchers; Tech 1 and Faction Torpedoes
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>XL Torpedo Launcher II; Tech 2 Torpedoes; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Missiles#XL_Torpedo_Specialization" title="Skills:Missiles">XL Torpedo Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="XL_Torpedo_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> XL Torpedo Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialist training in the operation of advanced XL torpedo launchers. 2% bonus per level to the rate of fire of modules requiring XL Torpedo Specialization.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 10x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 2 days to train to level III, and 8 weeks to train to level V (assuming no implants or neural remaps).">10x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 27M ISK">27M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Missiles#XL_Torpedoes" title="Skills:Missiles">XL Torpedoes&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>XL Torpedo Launcher II; Tech 2 Torpedoes
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Other_Skills">Other Skills</span></h1>
+<h2> <span class="mw-headline" id="Auto-Targeting_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Auto-Targeting Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with auto-targeting missiles. Special: 5% bonus to Auto-Targeting Missile (light, heavy and cruise) max. velocity per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 25k ISK">25k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Launcher_Operation" title="Skills:Missiles">Missile Launcher Operation&#160;II</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Auto-Targeting Missiles
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><a href="/Missile_Launchers#Auto-Targeting_Missiles" title="Missile Launchers" class="mw-redirect">Auto-targeting missiles</a> don't require designated targets -- instead, they attack any hostile things within range. They can be helpful if you're jammed by ECM, but they're only useful in certain situations and need not be a high training priority. Before <a href="/Odyssey" title="Odyssey">Odyssey</a>, this skill was called <i>FoF (Friend or Foe) Missiles</i>.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Bomb_Deployment"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Bomb Deployment</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Basic operation of bomb delivery systems. 5% reduction of Bomb Launcher reactivation delay per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 8M ISK">8M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Missiles#Missile_Bombardment" title="Skills:Missiles">Missile Bombardment&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Bomb Launcher I; Concussion Bomb; Scorch Bomb; Shrapnel Bomb; Electron Bomb
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Lockbreaker Bomb
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Void Bomb; Focused Void Bomb
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Bomb Launcher II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>This skill is used to launch <a href="/Bombs" title="Bombs">bombs</a> from <a href="/Frigate#Stealth_Bombers" title="Frigate" class="mw-redirect">stealth bombers</a>. It is only useful to bomber pilots.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Defender_Missiles"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Defender Missiles</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill with anti-missile missiles. Special: 10% bonus to defender missile max velocity per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span><span title="Secondary Attribute: Willpower" style="cursor: help;"><img alt="Willpower.png" src="/images/thumb/8/88/Willpower.png/32px-Willpower.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 30k ISK">30k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td>none
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Defender Launcher I, Defender Missile I
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Defender missiles are used to destroy incoming bombs. Defender Launchers may only be fit on destroyers, and each destroyer may only fit one Defender Launcher. Prior to Patch YC118.10, these were used to destroy incoming missiles.
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 63323/1000000
+Post-expand include size: 160155/2097152 bytes
+Template argument size: 41904/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki-wiki_:pcache:idhash:6739-0!*!0!!en!2!* and timestamp 20190221072258 -->
+</div>                                <!-- /bodycontent -->
+ 
+                                                                <!-- printfooter -->
+                                <div class="printfooter">
+                                Retrieved from "<a href="https://wiki.eveuniversity.org/index.php?title=Skills:Missiles&amp;oldid=140549">https://wiki.eveuniversity.org/index.php?title=Skills:Missiles&amp;oldid=140549</a>"                                </div>
+                                <!-- /printfooter -->
+                                                                                                <!-- catlinks -->
+                                <div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Skills" title="Category:Skills">Skills</a></li></ul></div></div>                                <!-- /catlinks -->
+                                                                                                <div class="visualClear"></div>
+                                <!-- debughtml -->
+                                                                <!-- /debughtml -->
+                        </div>
+                        <!-- /bodyContent -->
+                </div>
+                <!-- /content -->
+ 
+                <!-- header -->
+    <div id="mw-head" class="noprint">
+      
+<!-- 0 -->
+<div id="p-personal" class="">
+        <h5>Personal tools</h5>
+        <ul>
+                <li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skills%3AMissiles" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 
+        </ul>
+</div>
+
+<!-- /0 -->
+   
+      <div id="left-navigation">
+         
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+        <h5>Namespaces</h5>
+        <ul>
+                                        <li  id="ca-nstab-main" class="selected"><span><a href="/Skills:Missiles"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+                                        <li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Skills:Missiles&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+                <h5><span>Variants</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+      </div>
+      <div id="right-navigation">
+        
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+        <h5>Views</h5>
+        <ul>
+                                        <li id="ca-view" class="selected"><span><a href="/Skills:Missiles" >View</a></span></li>
+                                        <li id="ca-viewsource"><span><a href="/index.php?title=Skills:Missiles&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+                                        <li id="ca-history" class="collapsible"><span><a href="/index.php?title=Skills:Missiles&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+        <h5><span>Actions</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-search">
+        <h5><label for="searchInput">Search</label></h5>
+        <form action="/index.php" id="searchform">
+                <input type='hidden' name="title" value="Special:Search"/>
+                                <div id="simpleSearch">
+                                                <input name="search" title="Search UniWiki [f]" accesskey="f" id="searchInput" />                                                <button name="button" title="Search the pages for this text" id="searchButton"><img src="/skins/vectorinvert/images/search-ltr.png?303" alt="Search" /></button>                                        </div>
+                        </form>
+</div>
+
+<!-- /0 -->
+      </div>
+    </div>
+        <!-- /header -->
+ 
+                <!-- panel -->
+                        <div id="mw-panel" class="noprint">
+                                <!-- logo -->
+                                        <div id="p-logo"><a style="background-image: url(/skins/common/images/logo.png);" href="/Main_Page"  title="Visit the main page"></a></div>
+                                <!-- /logo -->
+                                
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+        <h5>Navigation</h5>
+        <div class="body">
+                <ul>
+<li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Categories"><a href="/Special:Categories">Categories</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="/Help:Contents" title="The place to find out">Help</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- EVE University -->
+<div class="portal" id='p-EVE_University'>
+        <h5>EVE University</h5>
+        <div class="body">
+                <ul>
+<li id="n-Join-E-UNI"><a href="/Applying_to_EVE_University">Join E-UNI</a></li><li id="n-Forum"><a href="http://forum.eveuniversity.org" rel="nofollow" target="_blank">Forum</a></li><li id="n-Class-Library"><a href="/EVE_University_Class_Library">Class Library</a></li><li id="n-Attending-a-Class"><a href="/Classes">Attending a Class</a></li><li id="n-Calendar"><a href="http://calendar.eveuniversity.org" rel="nofollow" target="_blank">Calendar</a></li><li id="n-Killboard"><a href="http://killboard.eveuniversity.org" rel="nofollow" target="_blank">Killboard</a></li><li id="n-Members"><a href="http://members.eveuniversity.org" rel="nofollow" target="_blank">Members</a></li><li id="n-Standings"><a href="http://standings.eveuniversity.org" rel="nofollow" target="_blank">Standings</a></li><li id="n-News"><a href="http://www.eveuniversity.org" rel="nofollow" target="_blank">News</a></li><li id="n-Donate"><a href="/Donating_to_EVE_University">Donate</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /EVE University -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+        <h5>Toolbox</h5>
+        <div class="body">
+                <ul>
+<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Skills:Missiles" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Skills:Missiles" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li><a href="/index.php?title=Skills:Missiles&amp;printable=yes" rel="alternate">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Skills:Missiles&amp;oldid=140549" title="Permanent link to this revision of the page">Permanent link</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+                        </div>
+                <!-- /panel -->
+                <!-- footer -->
+                <div id="footer">
+                                                        <ul id="footer-info">
+                                                                                        <li id="footer-info-lastmod"> This page was last modified on 29 January 2019, at 16:12.</li>
+                                                                                        <li id="footer-info-viewcount">This page has been accessed 71,646 times.</li>
+                                                                                        <li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a>.</li>
+                                                                        </ul>
+                                                        <ul id="footer-places">
+                                                                                        <li id="footer-places-privacy"><a href="/UniWiki:Privacy_policy" title="UniWiki:Privacy policy">Privacy policy</a></li>
+                                                                                        <li id="footer-places-about"><a href="/UniWiki:About" title="UniWiki:About">About UniWiki</a></li>
+                                                                                        <li id="footer-places-disclaimer"><a href="/UniWiki:General_disclaimer" title="UniWiki:General disclaimer">Disclaimers</a></li>
+                                                                        </ul>
+                                                                                <ul id="footer-icons" class="noprint">
+                                        <li id="footer-copyrightico">
+                                                <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Creative Commons" width="88" height="31" /></a>                                        </li>
+                                        <li id="footer-poweredbyico">
+                                                <a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>                                                <a href="https://billing.dediserve.com/?affid=68"><img src="/images/dediserve_88x31.gif" alt="Powered by Dediserve" width="88" height="31" /></a>                                        </li>
+                                </ul>
+                                                <div style="clear:both"></div>
+                </div>
+                <!-- /footer -->
+                <!-- fixalpha -->
+                <script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+                <!-- /fixalpha -->
+                <script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector%2Cvectorinvert&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.vector.collapsibleTabs","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18168954-1']);
+  _gaq.push(['_setDomainName', '.eveuniversity.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Served in 0.052 secs. --> 
+        </body>
+</html>

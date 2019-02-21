@@ -1,0 +1,2460 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Skills:Resource Processing - UniWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.0" />
+<link rel="apple-touch-icon" href="/skins/common/images/logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="UniWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.eveuniversity.org/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="UniWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector%2Cvectorinvert&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skills:Resource_Processing","wgTitle":"Skills:Resource Processing","wgCurRevisionId":135765,"wgArticleId":7335,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Skills"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Skills:Resource_Processing","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":false,"collapsibletabs":true,"editwarning":false,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":false,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":"MW_MATH_MATHJAX","minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vectorinvert","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,
+"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-js:7:9007fc0670442dca021e81c06c68e9eb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vectorinvert/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skills_Resource_Processing skin-vectorinvert action-view">
+                <div id="mw-page-base" class="noprint"></div>
+                <div id="mw-head-base" class="noprint"></div>
+                <!-- content -->
+                <div id="content">
+                        <a id="top"></a>
+                        <div id="mw-js-message" style="display:none;"></div>
+                                                <!-- firstHeading -->
+                        <h1 id="firstHeading" class="firstHeading">Skills:Resource Processing</h1>
+                        <!-- /firstHeading -->
+                        <!-- bodyContent -->
+                        <div id="bodyContent">
+                                                                <!-- tagline -->
+                                <div id="siteSub">From UniWiki</div>
+                                <!-- /tagline -->
+                                                                <!-- subtitle -->
+                                <div id="contentSub"></div>
+                                <!-- /subtitle -->
+                                                                                                                                <!-- jumpto -->
+                                <div id="jump-to-nav">
+                                        Jump to: <a href="#mw-head">navigation</a>,
+                                        <a href="#p-search">search</a>
+                                </div>
+                                <!-- /jumpto -->
+                                                                <!-- bodycontent -->
+                                <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 140px; float:right; clear:right; margin-left:1em; margin-bottom:1em; border:1px solid #202020; padding:1px; border-collapse:collapse; text-align:center; font-size:11px">
+
+<tr>
+<th style="background:#000000; font-size:12px;"> Lists of <a href="/Skills_and_Learning" title="Skills and Learning" class="mw-redirect">skills</a>
+</th></tr>
+<tr>
+<td style="background:#202020; font-size:11px;">
+<p><a href="/Starting_Skills" title="Starting Skills" class="mw-redirect">Starting Skills</a><br />
+<a href="/Skills:Armor" title="Skills:Armor">Armor</a><br />
+<a href="/Skills:Corporation_Management" title="Skills:Corporation Management">Corporation Management</a><br />
+<a href="/Skills:Drones" title="Skills:Drones">Drones</a><br />
+<a href="/Skills:Electronic_Systems" title="Skills:Electronic Systems">Electronic Systems</a><br />
+<a href="/Skills:Engineering" title="Skills:Engineering">Engineering</a><br />
+<a href="/Skills:Fleet_Support" title="Skills:Fleet Support">Fleet Support</a><br />
+<a href="/Skills:Gunnery" title="Skills:Gunnery">Gunnery</a><br />
+<a href="/Skills:Missiles" title="Skills:Missiles">Missiles</a><br />
+<a href="/Skills:Navigation" title="Skills:Navigation">Navigation</a><br />
+<a href="/Skills:Neural_Enhancement" title="Skills:Neural Enhancement">Neural Enhancement</a><br />
+<a href="/Skills:Planet_Management" title="Skills:Planet Management">Planet Management</a><br />
+<a href="/Skills:Production" title="Skills:Production">Production</a><br />
+<strong class="selflink">Resource Processing</strong><br />
+<a href="/Skills:Rigging" title="Skills:Rigging">Rigging</a><br />
+<a href="/Skills:Scanning" title="Skills:Scanning">Scanning</a><br />
+<a href="/Skills:Science" title="Skills:Science">Science</a><br />
+<a href="/Skills:Shields" title="Skills:Shields">Shields</a><br />
+<a href="/Skills:Social" title="Skills:Social">Social</a><br />
+<a href="/Skills:Spaceship_Command" title="Skills:Spaceship Command">Spaceship Command</a><br />
+<a href="/Skills:Structure_Management" title="Skills:Structure Management">Structure Management</a><br />
+<a href="/Skills:Subsystems" title="Skills:Subsystems">Subsystems</a><br />
+<a href="/Skills:Targeting" title="Skills:Targeting">Targeting</a><br />
+<a href="/Skills:Trade" title="Skills:Trade">Trade</a>
+</p>
+</td></tr></table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Resource_Gathering_Skills"><span class="tocnumber">2</span> <span class="toctext">Resource Gathering Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Astrogeology"><span class="tocnumber">2.1</span> <span class="toctext">Astrogeology</span></a></li>
+<li class="toclevel-2"><a href="#Deep_Core_Mining"><span class="tocnumber">2.2</span> <span class="toctext">Deep Core Mining</span></a></li>
+<li class="toclevel-2"><a href="#Gas_Cloud_Harvesting"><span class="tocnumber">2.3</span> <span class="toctext">Gas Cloud Harvesting</span></a></li>
+<li class="toclevel-2"><a href="#Ice_Harvesting"><span class="tocnumber">2.4</span> <span class="toctext">Ice Harvesting</span></a></li>
+<li class="toclevel-2"><a href="#Industrial_Reconfiguration"><span class="tocnumber">2.5</span> <span class="toctext">Industrial Reconfiguration</span></a></li>
+<li class="toclevel-2"><a href="#Mining"><span class="tocnumber">2.6</span> <span class="toctext">Mining</span></a></li>
+<li class="toclevel-2"><a href="#Mining_Upgrades"><span class="tocnumber">2.7</span> <span class="toctext">Mining Upgrades</span></a></li>
+<li class="toclevel-2"><a href="#Salvaging"><span class="tocnumber">2.8</span> <span class="toctext">Salvaging</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Resource_Processing_Skills"><span class="tocnumber">3</span> <span class="toctext">Resource Processing Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arkonor_Processing"><span class="tocnumber">3.1</span> <span class="toctext">Arkonor Processing</span></a></li>
+<li class="toclevel-2"><a href="#Bistot_Processing"><span class="tocnumber">3.2</span> <span class="toctext">Bistot Processing</span></a></li>
+<li class="toclevel-2"><a href="#Common_Moon_Ore_Processing"><span class="tocnumber">3.3</span> <span class="toctext">Common Moon Ore Processing</span></a></li>
+<li class="toclevel-2"><a href="#Crokite_Processing"><span class="tocnumber">3.4</span> <span class="toctext">Crokite Processing</span></a></li>
+<li class="toclevel-2"><a href="#Dark_Ochre_Processing"><span class="tocnumber">3.5</span> <span class="toctext">Dark Ochre Processing</span></a></li>
+<li class="toclevel-2"><a href="#Exceptional_Moon_Ore_Processing"><span class="tocnumber">3.6</span> <span class="toctext">Exceptional Moon Ore Processing</span></a></li>
+<li class="toclevel-2"><a href="#Gneiss_Processing"><span class="tocnumber">3.7</span> <span class="toctext">Gneiss Processing</span></a></li>
+<li class="toclevel-2"><a href="#Hedbergite_Processing"><span class="tocnumber">3.8</span> <span class="toctext">Hedbergite Processing</span></a></li>
+<li class="toclevel-2"><a href="#Hemorphite_Processing"><span class="tocnumber">3.9</span> <span class="toctext">Hemorphite Processing</span></a></li>
+<li class="toclevel-2"><a href="#Ice_Processing"><span class="tocnumber">3.10</span> <span class="toctext">Ice Processing</span></a></li>
+<li class="toclevel-2"><a href="#Jaspet_Processing"><span class="tocnumber">3.11</span> <span class="toctext">Jaspet Processing</span></a></li>
+<li class="toclevel-2"><a href="#Kernite_Processing"><span class="tocnumber">3.12</span> <span class="toctext">Kernite Processing</span></a></li>
+<li class="toclevel-2"><a href="#Mercoxit_Processing"><span class="tocnumber">3.13</span> <span class="toctext">Mercoxit Processing</span></a></li>
+<li class="toclevel-2"><a href="#Omber_Processing"><span class="tocnumber">3.14</span> <span class="toctext">Omber Processing</span></a></li>
+<li class="toclevel-2"><a href="#Plagioclase_Processing"><span class="tocnumber">3.15</span> <span class="toctext">Plagioclase Processing</span></a></li>
+<li class="toclevel-2"><a href="#Pyroxeres_Processing"><span class="tocnumber">3.16</span> <span class="toctext">Pyroxeres Processing</span></a></li>
+<li class="toclevel-2"><a href="#Rare_Moon_Ore_Processing"><span class="tocnumber">3.17</span> <span class="toctext">Rare Moon Ore Processing</span></a></li>
+<li class="toclevel-2"><a href="#Reactions"><span class="tocnumber">3.18</span> <span class="toctext">Reactions</span></a></li>
+<li class="toclevel-2"><a href="#Reprocessing"><span class="tocnumber">3.19</span> <span class="toctext">Reprocessing</span></a></li>
+<li class="toclevel-2"><a href="#Reprocessing_Efficiency"><span class="tocnumber">3.20</span> <span class="toctext">Reprocessing Efficiency</span></a></li>
+<li class="toclevel-2"><a href="#Scordite_Processing"><span class="tocnumber">3.21</span> <span class="toctext">Scordite Processing</span></a></li>
+<li class="toclevel-2"><a href="#Scrapmetal_Processing"><span class="tocnumber">3.22</span> <span class="toctext">Scrapmetal Processing</span></a></li>
+<li class="toclevel-2"><a href="#Spodumain_Processing"><span class="tocnumber">3.23</span> <span class="toctext">Spodumain Processing</span></a></li>
+<li class="toclevel-2"><a href="#Ubiquitous_Moon_Ore_Processing"><span class="tocnumber">3.24</span> <span class="toctext">Ubiquitous Moon Ore Processing</span></a></li>
+<li class="toclevel-2"><a href="#Uncommon_Moon_Ore_Processing"><span class="tocnumber">3.25</span> <span class="toctext">Uncommon Moon Ore Processing</span></a></li>
+<li class="toclevel-2"><a href="#Veldspar_Processing"><span class="tocnumber">3.26</span> <span class="toctext">Veldspar Processing</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Overview">Overview</span></h1>
+<p>This group has all mining, harvesting skills and reprocessing skills. As you might suspect, the core of any budding industrialist and/or miner. It doesn't include any combat skills, so can be mostly ignored by PvP'ers and PvE'ers alike.
+</p>
+<table class="wikitable">
+<tr>
+<th>Skill
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Arkonor_Processing" title="Skills:Resource Processing">Arkonor Processing</a></span>
+</td>
+<td>Reduction in Arkonor reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Astrogeology" title="Skills:Resource Processing">Astrogeology</a></span>
+</td>
+<td>Improves mining turret yield. Required for the use of <a href="/Mining_Ships#Mining_Barges" title="Mining Ships" class="mw-redirect">mining barges</a>.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Bistot_Processing" title="Skills:Resource Processing">Bistot Processing</a></span>
+</td>
+<td>Reduction in Bistot reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Common_Moon_Ore_Processing" title="Skills:Resource Processing">Common Moon Ore Processing</a></span>
+</td>
+<td>Reduction in Cobaltite, Euxenite, Titanite, and Scheelite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Crokite_Processing" title="Skills:Resource Processing">Crokite Processing</a></span>
+</td>
+<td>Reduction in Crokite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Dark_Ochre_Processing" title="Skills:Resource Processing">Dark Ochre Processing</a></span>
+</td>
+<td>Reduction in Dark Ochre reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Deep_Core_Mining" title="Skills:Resource Processing">Deep Core Mining</a></span>
+</td>
+<td>Allows use Deep Core Mining Lasers and reduces the chance of a damage cloud forming while mining Mercoxit
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Exceptional_Moon_Ore_Processing" title="Skills:Resource Processing">Exceptional Moon Ore Processing</a></span>
+</td>
+<td>Reduction in Xenotime, Monazite, Loparite, and Ytterbite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Gas_Cloud_Harvesting" title="Skills:Resource Processing">Gas Cloud Harvesting</a></span>
+</td>
+<td>Allows harvesting gas clouds
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Gneiss_Processing" title="Skills:Resource Processing">Gneiss Processing</a></span>
+</td>
+<td>Reduction in Gneiss reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Hedbergite_Processing" title="Skills:Resource Processing">Hedbergite Processing</a></span>
+</td>
+<td>Reduction in Hedbergite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Hemorphite_Processing" title="Skills:Resource Processing">Hemorphite Processing</a></span>
+</td>
+<td>Reduction in Hemorphite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Ice_Harvesting" title="Skills:Resource Processing">Ice Harvesting</a></span>
+</td>
+<td>Allows harvesting ice
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Ice_Processing" title="Skills:Resource Processing">Ice Processing</a></span>
+</td>
+<td>Reduction in Ice reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Industrial_Reconfiguration" title="Skills:Resource Processing">Industrial Reconfiguration</a></span>
+</td>
+<td>Allows use of industrial core modules and reduces heavy water consumption for modules
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Jaspet_Processing" title="Skills:Resource Processing">Jaspet Processing</a></span>
+</td>
+<td>Reduction in Jaspet reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Kernite_Processing" title="Skills:Resource Processing">Kernite Processing</a></span>
+</td>
+<td>Reduction in Kernite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mercoxit_Processing" title="Skills:Resource Processing">Mercoxit Processing</a></span>
+</td>
+<td>Reduction in Mercoxit reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining</a></span>
+</td>
+<td>Bonus to mining turret yield
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining_Upgrades" title="Skills:Resource Processing">Mining Upgrades</a></span>
+</td>
+<td>Allows use of mining upgrades
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Omber_Processing" title="Skills:Resource Processing">Omber Processing</a></span>
+</td>
+<td>Reduction in Omber reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Plagioclase_Processing" title="Skills:Resource Processing">Plagioclase Processing</a></span>
+</td>
+<td>Reduction in Plagioclase reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Pyroxeres_Processing" title="Skills:Resource Processing">Pyroxeres Processing</a></span>
+</td>
+<td>Reduction in Pyroxeres reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Rare_Moon_Ore_Processing" title="Skills:Resource Processing">Rare Moon Ore Processing</a></span>
+</td>
+<td>Reduction in Carnotite, Zircon, Pollucite, and Cinnabar reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing</a></span>
+</td>
+<td>Reduction in reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency</a></span>
+</td>
+<td>Further reduction in reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Salvaging" title="Skills:Resource Processing">Salvaging</a></span>
+</td>
+<td>Allows use of salvagers.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Scordite_Processing" title="Skills:Resource Processing">Scordite Processing</a></span>
+</td>
+<td>Reduction in Scordite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Scrapmetal_Processing" title="Skills:Resource Processing">Scrapmetal Processing</a></span>
+</td>
+<td>Reduction in Scrapmetal reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Spodumain_Processing" title="Skills:Resource Processing">Spodumain Processing</a></span>
+</td>
+<td>Reduction in Spodumain reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Ubiquitous_Moon_Ore_Processing" title="Skills:Resource Processing">Ubiquitous Moon Ore Processing</a></span>
+</td>
+<td>Reduction in Zeolites, Sylvite, Bitumens, and Coesite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Uncommon_Moon_Ore_Processing" title="Skills:Resource Processing">Uncommon Moon Ore Processing</a></span>
+</td>
+<td>Reduction in Otavite, Sperrylite, Vanadinite, and Chromite reprocessing waste
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Veldspar_Processing" title="Skills:Resource Processing">Veldspar Processing</a></span>
+</td>
+<td>Reduction in Veldspar reprocessing waste
+</td></tr></table>
+<h1> <span class="mw-headline" id="Resource_Gathering_Skills">Resource Gathering Skills</span></h1>
+<h2> <span class="mw-headline" id="Astrogeology"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Astrogeology</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at analyzing the content of celestial objects with the intent of mining them. 5% bonus to mining turret yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;IV</a></span>, <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td><a href="/Covetor" title="Covetor">Covetor</a>; <a href="/Retriever" title="Retriever">Retriever</a>; <a href="/Procurer" title="Procurer">Procurer</a>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Mining_Barge" title="Skills:Spaceship Command">Mining Barge</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Manufacturing: Deep Core Mining Laser I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Deep_Core_Mining" title="Skills:Resource Processing">Deep Core Mining</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Exhumers" title="Skills:Spaceship Command">Exhumers</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Deep_Core_Mining"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Deep Core Mining</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at operating mining lasers requiring Deep Core Mining. 20% reduction per skill level in the chance of a damage cloud forming while mining Mercoxit.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 6x as long to train compared to a skill with a multiplier of 1x. It will take approximately 50 minutes to train to level I, 1 day to train to level III, and 35 days to train to level V (assuming no implants or neural remaps).">6x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 500k ISK">500k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Astrogeology" title="Skills:Resource Processing">Astrogeology&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Deep Core Mining Laser I; ORE Deep Core Mining Laser
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Modulated Deep Core Miner II; Modulated Deep Core Strip Miner II
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Gas_Cloud_Harvesting"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Gas Cloud Harvesting</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at harvesting gas clouds. Allows use of one gas cloud harvester per level.<br /></div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 24M ISK">24M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Gas Cloud Harvesters
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Gas Cloud Harvester II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>The Gas Cloud Harvesting skill is not sold in all regions so prices will vary widely. NPC Sell Orders available in HS within the regions of Derelik, Heimatar, Khanid, and Metropolis (As of 7 June 2018).
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Ice_Harvesting"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ice Harvesting</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at harvesting ice. 5% reduction per skill level to the cycle time of ice harvesters.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 375k ISK">375k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Ice Harvester I; ORE Ice Harvester; Ice Mining Laser I; ORE Ice Mining Laser
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Ice Harvesting Drone; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Ice_Harvester_Drone_Operation" title="Skills:Drones">Ice Harvester Drone Operation</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Tech 2 and Faction Ice Harvesting Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Ice_Harvester_Drone_Specialization" title="Skills:Drones">Ice Harvester Drone Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Ice Harvester II; Ice Mining Laser II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Industrial_Reconfiguration"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Industrial Reconfiguration</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the operation of industrial core modules. 50-unit reduction in heavy water consumption amount for module activation per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 25M ISK">25M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Production#Advanced_Mass_Production" title="Skills:Production">Advanced Mass Production&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Industrial Core I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Capital_Industrial_Ships" title="Skills:Spaceship Command">Capital Industrial Ships</a></span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Industrial Core II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Used for the <a href="/Rorqual" title="Rorqual">Rorqual</a> capital industrial ship.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Mining"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Mining</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at using mining lasers. 5% bonus to mining turret yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 20k ISK">20k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td>none
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Mining Lasers; Mining Crystals
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Tech 1 and Faction Mining Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Mining_Drone_Operation" title="Skills:Drones">Mining Drone Operation</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Mining_Upgrades" title="Skills:Resource Processing">Mining Upgrades</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Miner II; Tech 1 and Faction Strip Miners; Tech 2 and Faction Mining Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Astrogeology" title="Skills:Resource Processing">Astrogeology</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Ice_Harvesting" title="Skills:Resource Processing">Ice Harvesting</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Mining_Drone_Specialization" title="Skills:Drones">Mining Drone Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Gas_Cloud_Harvesting" title="Skills:Resource Processing">Gas Cloud Harvesting</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Deep Core Mining Lasers; Modulated Strip Miner II; Modulated Deep Core Strip Miner II; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Deep_Core_Mining" title="Skills:Resource Processing">Deep Core Mining</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Mining_Upgrades"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Mining Upgrades</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at using mining upgrades. 5% reduction per skill level in CPU penalty of mining upgrade modules.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 80k ISK">80k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Storyline Mining Laser Upgrades; Tech 1 and Storyline Ice Harvester Upgrades
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Mining Laser Upgrade II; Ice Harvester Upgrade II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Salvaging"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Salvaging</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at salvaging ship wrecks. Required skill for the use of salvager modules. 100% increase in chance of salvage retrieval per additional level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 1M ISK">1M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Armor#Mechanics" title="Skills:Armor">Mechanics&#160;III</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Scanning#Survey" title="Skills:Scanning">Survey&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Salvager I; <a href="/Noctis" title="Noctis">Noctis</a>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Salvage Drone I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Salvage_Drone_Operation" title="Skills:Drones">Salvage Drone Operation</a></span>
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Salvager II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Salvaging increases the chance that you'll successfully <i>access</i> a wreck you're salvaging on any given cycle. It does <i>not</i> increase your chance of getting the more valuable salvage from the wreck and it does <i>not</i> decrease the chance that you'll find that there was nothing to be salvaged after successfully accessing the wreck. You need Salvaging I to use salvagers at all; you need Salvaging V to use T2 salvagers.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Resource_Processing_Skills">Resource Processing Skills</span></h1>
+<h2> <span class="mw-headline" id="Arkonor_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Arkonor Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Arkonor reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Arkonor reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 375k ISK">375k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Arkonor Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Arkonor Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Bistot_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Bistot Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Bistot reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Bistot reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 350k ISK">350k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Bistot Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Bistot Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Common_Moon_Ore_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Common Moon Ore Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in reprocessing of the moderately common forms of ore extracted from New Eden's moons. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.
+2% bonus to Cobaltite, Euxenite, Titanite, and Scheelite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 15M ISK">15M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Common Moon Ore Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Common Moon Ore Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Crokite_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Crokite Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Crokite reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Crokite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 325k ISK">325k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>, <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Crokite Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Crokite Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Dark_Ochre_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Dark Ochre Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Dark Ochre reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Dark Ochre reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 275k ISK">275k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Dark Ochre Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Dark Ochre Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Exceptional_Moon_Ore_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Exceptional Moon Ore Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in reprocessing of the rarest and most prized forms of ore extracted from New Eden's moons. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.
+2% bonus to Xenotime, Monazite, Loparite, and Ytterbite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 30M ISK">30M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Exceptional Moon Ore Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Exceptional Moon Ore Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Gneiss_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Gneiss Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Gneiss reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Gneiss reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 250k ISK">250k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Gneiss Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Gneiss Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Hedbergite_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Hedbergite Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Hedbergite reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Hedbergite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 225k ISK">225k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Hedbergite Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Hedbergite Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Hemorphite_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Hemorphite Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Hemorphite reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Hemorphite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Hemorphite Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Hemorphite Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Ice_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ice Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill for Ice reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Ice reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 400k ISK">400k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Hydromagnetic_Physics" title="Skills:Science">Hydromagnetic Physics&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Jaspet_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Jaspet Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Jaspet reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Jaspet reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 175k ISK">175k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Jaspet Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Jaspet Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Kernite_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Kernite Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Kernite reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Kernite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 150k ISK">150k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Kernite Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Kernite Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Mercoxit_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Mercoxit Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Mercoxit reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Mercoxit reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 400k ISK">400k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Mercoxit Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Mercoxit Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Omber_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Omber Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Omber reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Omber reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 125k ISK">125k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Omber Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Omber Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Plagioclase_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Plagioclase Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Plagioclase reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Plagioclase reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 75k ISK">75k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Plagioclase Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Plagioclase Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Pyroxeres_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Pyroxeres Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Pyroxeres reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Pyroxeres reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Pyroxeres Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Pyroxeres Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Rare_Moon_Ore_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Rare Moon Ore Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in reprocessing of the rarer forms of ore extracted from New Eden's moons. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.
+2% bonus to Carnotite, Zircon, Pollucite, and Cinnabar reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 7x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 6 weeks to train to level V (assuming no implants or neural remaps).">7x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 25M ISK">25M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Rare Moon Ore Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Rare Moon Ore Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Reactions"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Reactions</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows basic operation of Reaction Service Module. 4% reduction in reaction time per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 1M ISK">1M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level I">I</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td>none
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Mass_Reactions" title="Skills:Resource Processing">Mass Reactions</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Remote_Reactions" title="Skills:Resource Processing">Remote Reactions</a></span>
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Reprocessing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Reprocessing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at using reprocessing facilities in station, outposts and starbases to break ores and ice down into refined products.
+3% bonus to ore and ice reprocessing per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 50k ISK">50k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Production#Industry" title="Skills:Production">Industry&#160;I</a></span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Plagioclase_Processing" title="Skills:Resource Processing">Plagioclase Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Pyroxeres_Processing" title="Skills:Resource Processing">Pyroxeres Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Scordite_Processing" title="Skills:Resource Processing">Scordite Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Veldspar_Processing" title="Skills:Resource Processing">Veldspar Processing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Hemorphite_Processing" title="Skills:Resource Processing">Hemorphite Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Jaspet_Processing" title="Skills:Resource Processing">Jaspet Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Kernite_Processing" title="Skills:Resource Processing">Kernite Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Omber_Processing" title="Skills:Resource Processing">Omber Processing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Before Crius 1.0, this skill was called "Refining"<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Reprocessing_Efficiency"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Reprocessing Efficiency</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Advanced skill at using reprocessing facilities in station, outposts and starbases to break ores and ice down into refined products.
+2% bonus to ore and ice reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 280k ISK">280k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Dark_Ochre_Processing" title="Skills:Resource Processing">Dark Ochre Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Gneiss_Processing" title="Skills:Resource Processing">Gneiss Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Hedbergite_Processing" title="Skills:Resource Processing">Hedbergite Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Spodumain_Processing" title="Skills:Resource Processing">Spodumain Processing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Arkonor_Processing" title="Skills:Resource Processing">Arkonor Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Bistot_Processing" title="Skills:Resource Processing">Bistot Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Crokite_Processing" title="Skills:Resource Processing">Crokite Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Mercoxit_Processing" title="Skills:Resource Processing">Mercoxit Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Scrapmetal_Processing" title="Skills:Resource Processing">Scrapmetal Processing</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Ice_Processing" title="Skills:Resource Processing">Ice Processing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Before Crius 1.0, this skill was called "Refinery Efficiency"
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Scordite_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Scordite Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Scordite reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Scordite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 50k ISK">50k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Scordite Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Scordite Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Scrapmetal_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Scrapmetal Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Scrapmetal processing and refining. Increases reprocessing returns for modules, ships and other reprocessable equipment (but not ore and ice).
+2% bonus to ship and module reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 300k ISK">300k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;V</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Spodumain_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Spodumain Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Spodumain reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Spodumain reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 300k ISK">300k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Spodumain Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Spodumain Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Ubiquitous_Moon_Ore_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ubiquitous Moon Ore Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in reprocessing of the most common forms of ore extracted from New Eden's moons. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.
+2% bonus to Zeolites, Sylvite, Bitumens, and Coesite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 10M ISK">10M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Ubiquitous Moon Ore Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Ubiquitous Moon Ore Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Uncommon_Moon_Ore_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Uncommon Moon Ore Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in reprocessing of the less common forms of ore extracted from New Eden's moons. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.
+2% bonus to Otavite, Sperrylite, Vanadinite, and Chromite reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 6x as long to train compared to a skill with a multiplier of 1x. It will take approximately 50 minutes to train to level I, 1 day to train to level III, and 35 days to train to level V (assuming no implants or neural remaps).">6x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 20M ISK">20M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing_Efficiency" title="Skills:Resource Processing">Reprocessing Efficiency&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Metallurgy" title="Skills:Science">Metallurgy&#160;IV</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Uncommon Moon Ore Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Uncommon Moon Ore Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Veldspar_Processing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Veldspar Processing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in Veldspar reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.
+2% bonus to Veldspar reprocessing yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 25k ISK">25k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Reprocessing" title="Skills:Resource Processing">Reprocessing&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Veldspar Mining Crystal I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Veldspar Mining Crystal II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 110073/1000000
+Post-expand include size: 204895/2097152 bytes
+Template argument size: 48618/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki-wiki_:pcache:idhash:7335-0!*!0!!en!2!* and timestamp 20190221041913 -->
+</div>                                <!-- /bodycontent -->
+ 
+                                                                <!-- printfooter -->
+                                <div class="printfooter">
+                                Retrieved from "<a href="https://wiki.eveuniversity.org/index.php?title=Skills:Resource_Processing&amp;oldid=135765">https://wiki.eveuniversity.org/index.php?title=Skills:Resource_Processing&amp;oldid=135765</a>"                                </div>
+                                <!-- /printfooter -->
+                                                                                                <!-- catlinks -->
+                                <div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Skills" title="Category:Skills">Skills</a></li></ul></div></div>                                <!-- /catlinks -->
+                                                                                                <div class="visualClear"></div>
+                                <!-- debughtml -->
+                                                                <!-- /debughtml -->
+                        </div>
+                        <!-- /bodyContent -->
+                </div>
+                <!-- /content -->
+ 
+                <!-- header -->
+    <div id="mw-head" class="noprint">
+      
+<!-- 0 -->
+<div id="p-personal" class="">
+        <h5>Personal tools</h5>
+        <ul>
+                <li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skills%3AResource+Processing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 
+        </ul>
+</div>
+
+<!-- /0 -->
+   
+      <div id="left-navigation">
+         
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+        <h5>Namespaces</h5>
+        <ul>
+                                        <li  id="ca-nstab-main" class="selected"><span><a href="/Skills:Resource_Processing"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+                                        <li  id="ca-talk"><span><a href="/Talk:Skills:Resource_Processing"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+                <h5><span>Variants</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+      </div>
+      <div id="right-navigation">
+        
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+        <h5>Views</h5>
+        <ul>
+                                        <li id="ca-view" class="selected"><span><a href="/Skills:Resource_Processing" >View</a></span></li>
+                                        <li id="ca-viewsource"><span><a href="/index.php?title=Skills:Resource_Processing&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+                                        <li id="ca-history" class="collapsible"><span><a href="/index.php?title=Skills:Resource_Processing&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+        <h5><span>Actions</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-search">
+        <h5><label for="searchInput">Search</label></h5>
+        <form action="/index.php" id="searchform">
+                <input type='hidden' name="title" value="Special:Search"/>
+                                <div id="simpleSearch">
+                                                <input name="search" title="Search UniWiki [f]" accesskey="f" id="searchInput" />                                                <button name="button" title="Search the pages for this text" id="searchButton"><img src="/skins/vectorinvert/images/search-ltr.png?303" alt="Search" /></button>                                        </div>
+                        </form>
+</div>
+
+<!-- /0 -->
+      </div>
+    </div>
+        <!-- /header -->
+ 
+                <!-- panel -->
+                        <div id="mw-panel" class="noprint">
+                                <!-- logo -->
+                                        <div id="p-logo"><a style="background-image: url(/skins/common/images/logo.png);" href="/Main_Page"  title="Visit the main page"></a></div>
+                                <!-- /logo -->
+                                
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+        <h5>Navigation</h5>
+        <div class="body">
+                <ul>
+<li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Categories"><a href="/Special:Categories">Categories</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="/Help:Contents" title="The place to find out">Help</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- EVE University -->
+<div class="portal" id='p-EVE_University'>
+        <h5>EVE University</h5>
+        <div class="body">
+                <ul>
+<li id="n-Join-E-UNI"><a href="/Applying_to_EVE_University">Join E-UNI</a></li><li id="n-Forum"><a href="http://forum.eveuniversity.org" rel="nofollow" target="_blank">Forum</a></li><li id="n-Class-Library"><a href="/EVE_University_Class_Library">Class Library</a></li><li id="n-Attending-a-Class"><a href="/Classes">Attending a Class</a></li><li id="n-Calendar"><a href="http://calendar.eveuniversity.org" rel="nofollow" target="_blank">Calendar</a></li><li id="n-Killboard"><a href="http://killboard.eveuniversity.org" rel="nofollow" target="_blank">Killboard</a></li><li id="n-Members"><a href="http://members.eveuniversity.org" rel="nofollow" target="_blank">Members</a></li><li id="n-Standings"><a href="http://standings.eveuniversity.org" rel="nofollow" target="_blank">Standings</a></li><li id="n-News"><a href="http://www.eveuniversity.org" rel="nofollow" target="_blank">News</a></li><li id="n-Donate"><a href="/Donating_to_EVE_University">Donate</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /EVE University -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+        <h5>Toolbox</h5>
+        <div class="body">
+                <ul>
+<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Skills:Resource_Processing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Skills:Resource_Processing" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li><a href="/index.php?title=Skills:Resource_Processing&amp;printable=yes" rel="alternate">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Skills:Resource_Processing&amp;oldid=135765" title="Permanent link to this revision of the page">Permanent link</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+                        </div>
+                <!-- /panel -->
+                <!-- footer -->
+                <div id="footer">
+                                                        <ul id="footer-info">
+                                                                                        <li id="footer-info-lastmod"> This page was last modified on 7 June 2018, at 07:42.</li>
+                                                                                        <li id="footer-info-viewcount">This page has been accessed 80,419 times.</li>
+                                                                                        <li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a>.</li>
+                                                                        </ul>
+                                                        <ul id="footer-places">
+                                                                                        <li id="footer-places-privacy"><a href="/UniWiki:Privacy_policy" title="UniWiki:Privacy policy">Privacy policy</a></li>
+                                                                                        <li id="footer-places-about"><a href="/UniWiki:About" title="UniWiki:About">About UniWiki</a></li>
+                                                                                        <li id="footer-places-disclaimer"><a href="/UniWiki:General_disclaimer" title="UniWiki:General disclaimer">Disclaimers</a></li>
+                                                                        </ul>
+                                                                                <ul id="footer-icons" class="noprint">
+                                        <li id="footer-copyrightico">
+                                                <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Creative Commons" width="88" height="31" /></a>                                        </li>
+                                        <li id="footer-poweredbyico">
+                                                <a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>                                                <a href="https://billing.dediserve.com/?affid=68"><img src="/images/dediserve_88x31.gif" alt="Powered by Dediserve" width="88" height="31" /></a>                                        </li>
+                                </ul>
+                                                <div style="clear:both"></div>
+                </div>
+                <!-- /footer -->
+                <!-- fixalpha -->
+                <script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+                <!-- /fixalpha -->
+                <script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector%2Cvectorinvert&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.vector.collapsibleTabs","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18168954-1']);
+  _gaq.push(['_setDomainName', '.eveuniversity.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Served in 0.055 secs. --> 
+        </body>
+</html>

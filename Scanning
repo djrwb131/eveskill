@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Skills:Scanning - UniWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.0" />
+<link rel="apple-touch-icon" href="/skins/common/images/logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="UniWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.eveuniversity.org/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="UniWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector%2Cvectorinvert&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skills:Scanning","wgTitle":"Skills:Scanning","wgCurRevisionId":121906,"wgArticleId":7323,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Skills"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Skills:Scanning","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":false,"collapsibletabs":true,"editwarning":false,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":false,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":"MW_MATH_MATHJAX","minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vectorinvert","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,
+"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-js:7:9007fc0670442dca021e81c06c68e9eb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vectorinvert/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skills_Scanning skin-vectorinvert action-view">
+                <div id="mw-page-base" class="noprint"></div>
+                <div id="mw-head-base" class="noprint"></div>
+                <!-- content -->
+                <div id="content">
+                        <a id="top"></a>
+                        <div id="mw-js-message" style="display:none;"></div>
+                                                <!-- firstHeading -->
+                        <h1 id="firstHeading" class="firstHeading">Skills:Scanning</h1>
+                        <!-- /firstHeading -->
+                        <!-- bodyContent -->
+                        <div id="bodyContent">
+                                                                <!-- tagline -->
+                                <div id="siteSub">From UniWiki</div>
+                                <!-- /tagline -->
+                                                                <!-- subtitle -->
+                                <div id="contentSub"></div>
+                                <!-- /subtitle -->
+                                                                                                                                <!-- jumpto -->
+                                <div id="jump-to-nav">
+                                        Jump to: <a href="#mw-head">navigation</a>,
+                                        <a href="#p-search">search</a>
+                                </div>
+                                <!-- /jumpto -->
+                                                                <!-- bodycontent -->
+                                <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 140px; float:right; clear:right; margin-left:1em; margin-bottom:1em; border:1px solid #202020; padding:1px; border-collapse:collapse; text-align:center; font-size:11px">
+
+<tr>
+<th style="background:#000000; font-size:12px;"> Lists of <a href="/Skills_and_Learning" title="Skills and Learning" class="mw-redirect">skills</a>
+</th></tr>
+<tr>
+<td style="background:#202020; font-size:11px;">
+<p><a href="/Starting_Skills" title="Starting Skills" class="mw-redirect">Starting Skills</a><br />
+<a href="/Skills:Armor" title="Skills:Armor">Armor</a><br />
+<a href="/Skills:Corporation_Management" title="Skills:Corporation Management">Corporation Management</a><br />
+<a href="/Skills:Drones" title="Skills:Drones">Drones</a><br />
+<a href="/Skills:Electronic_Systems" title="Skills:Electronic Systems">Electronic Systems</a><br />
+<a href="/Skills:Engineering" title="Skills:Engineering">Engineering</a><br />
+<a href="/Skills:Fleet_Support" title="Skills:Fleet Support">Fleet Support</a><br />
+<a href="/Skills:Gunnery" title="Skills:Gunnery">Gunnery</a><br />
+<a href="/Skills:Missiles" title="Skills:Missiles">Missiles</a><br />
+<a href="/Skills:Navigation" title="Skills:Navigation">Navigation</a><br />
+<a href="/Skills:Neural_Enhancement" title="Skills:Neural Enhancement">Neural Enhancement</a><br />
+<a href="/Skills:Planet_Management" title="Skills:Planet Management">Planet Management</a><br />
+<a href="/Skills:Production" title="Skills:Production">Production</a><br />
+<a href="/Skills:Resource_Processing" title="Skills:Resource Processing">Resource Processing</a><br />
+<a href="/Skills:Rigging" title="Skills:Rigging">Rigging</a><br />
+<strong class="selflink">Scanning</strong><br />
+<a href="/Skills:Science" title="Skills:Science">Science</a><br />
+<a href="/Skills:Shields" title="Skills:Shields">Shields</a><br />
+<a href="/Skills:Social" title="Skills:Social">Social</a><br />
+<a href="/Skills:Spaceship_Command" title="Skills:Spaceship Command">Spaceship Command</a><br />
+<a href="/Skills:Structure_Management" title="Skills:Structure Management">Structure Management</a><br />
+<a href="/Skills:Subsystems" title="Skills:Subsystems">Subsystems</a><br />
+<a href="/Skills:Targeting" title="Skills:Targeting">Targeting</a><br />
+<a href="/Skills:Trade" title="Skills:Trade">Trade</a>
+</p>
+</td></tr></table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Skill_Details"><span class="tocnumber">2</span> <span class="toctext">Skill Details</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Archaeology"><span class="tocnumber">2.1</span> <span class="toctext">Archaeology</span></a></li>
+<li class="toclevel-2"><a href="#Astrometric_Acquisition"><span class="tocnumber">2.2</span> <span class="toctext">Astrometric Acquisition</span></a></li>
+<li class="toclevel-2"><a href="#Astrometric_Pinpointing"><span class="tocnumber">2.3</span> <span class="toctext">Astrometric Pinpointing</span></a></li>
+<li class="toclevel-2"><a href="#Astrometric_Rangefinding"><span class="tocnumber">2.4</span> <span class="toctext">Astrometric Rangefinding</span></a></li>
+<li class="toclevel-2"><a href="#Astrometrics"><span class="tocnumber">2.5</span> <span class="toctext">Astrometrics</span></a></li>
+<li class="toclevel-2"><a href="#Hacking"><span class="tocnumber">2.6</span> <span class="toctext">Hacking</span></a></li>
+<li class="toclevel-2"><a href="#Survey"><span class="tocnumber">2.7</span> <span class="toctext">Survey</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Overview">Overview</span></h1>
+<p>This group contains all skills tied with that theme: probe scanning, hacking mini-game and survey skills.
+</p>
+<table class="wikitable">
+<tr>
+<th>Skill
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Archaeology" title="Skills:Scanning">Archaeology</a></span>
+</td>
+<td>Allows the use of relic analyzers. Increases virus coherence.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometric_Acquisition" title="Skills:Scanning">Astrometric Acquisition</a></span>
+</td>
+<td>Reduction to probe scan time.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometric_Pinpointing" title="Skills:Scanning">Astrometric Pinpointing</a></span>
+</td>
+<td>Reduction to maximum scan deviation.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometric_Rangefinding" title="Skills:Scanning">Astrometric Rangefinding</a></span>
+</td>
+<td>Increase to scan probe strength.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometrics" title="Skills:Scanning">Astrometrics</a></span>
+</td>
+<td>Allows the use of <a href="/Scanning" title="Scanning">scan probes</a>.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Hacking" title="Skills:Scanning">Hacking</a></span>
+</td>
+<td>Allows the use of data analyzers. Increases virus coherence.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Survey" title="Skills:Scanning">Survey</a></span>
+</td>
+<td>Allows use of cargo, ship, and survey scanners. Bonus to scan speed of these modules.
+</td></tr></table>
+<h1> <span class="mw-headline" id="Skill_Details">Skill Details</span></h1>
+<h2> <span class="mw-headline" id="Archaeology"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Archaeology</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at identifying and analyzing ancient artifacts.  Required skill for the use of Relic Analyzer modules. Gives +10 Virus Coherence per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Scanning#Survey" title="Skills:Scanning">Survey&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Relic Analyzer I; 'Ligature' Integrated Analyzer
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Talocan_Technology" title="Skills:Science">Talocan Technology</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Sleeper_Technology" title="Skills:Science">Sleeper Technology</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Takmahl_Technology" title="Skills:Science">Takmahl Technology</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Yan_Jung_Technology" title="Skills:Science">Yan Jung Technology</a></span>
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Relic Analyzer II; 'Zeugma' Integrated Analyzer
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>If you run a lot of Relic sites, training this to from IV to V gives you a big boost, because you get the bonus from the skill, and also the bonuses from being able to use a Relic Analyzer II.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Astrometric_Acquisition"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Astrometric Acquisition</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at the advanced operation of long range scanners. 5% reduction in scan probe scan time per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometrics" title="Skills:Scanning">Astrometrics&#160;III</a></span>
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Scan Acquisition Array I
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Scan Acquisition Array II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Currently the least useful of the three Astrometric skills used for <a href="/Exploration" title="Exploration">Exploration</a>, and a holdover from previous versions of scanning.  Scan times are already very short, so you may not want to train this skill at all past what is required by other skills or items.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Astrometric_Pinpointing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Astrometric Pinpointing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Greater accuracy in hunting down targets found through scanning. Reduces maximum scan deviation by 5% per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Scanning#Astrometrics" title="Skills:Scanning">Astrometrics&#160;IV</a></span>
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Scan Pinpointing Array I
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Scan Pinpointing Array II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Astrometric_Rangefinding"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Astrometric Rangefinding</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill for the advanced operation of long range scanners. 5% increase to scan probe strength per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Scan Rangefinding Array I
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Scan Rangefinding Array II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Astrometrics"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Astrometrics</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at operating long range scanners.
+<p>+5% scan strength per level.
+-5% max scan deviation per level.
+</p>
+-5% scan probe scan time per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Core Probe Launchers and Core Scanner Probes
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Tech 1 and Faction Expanded Probe Launchers; Tech 1 and Faction Combat Scanner Probes
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Survey Probe Launcher I; Quest/Discovery Survey Probe I; Warp Disrupt Probes; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Scanning#Astrometric_Acquisition" title="Skills:Scanning">Astrometric Acquisition</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Scanning#Astrometric_Pinpointing" title="Skills:Scanning">Astrometric Pinpointing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Probe Launchers; Gaze Survey Probe I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Navigation#Jump_Portal_Generation" title="Skills:Navigation">Jump Portal Generation</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>With the release of Odyssey, by default, all players can launch the maximum of 8 probes with <a href="/Skills:Scanning#Astrometrics" title="Skills:Scanning">Astrometrics I</a><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Hacking"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Hacking</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Proficiency at breaking into guarded computer systems.  Required skill for the use of Data Analyzer modules. Gives +10 Virus Coherence per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Science#Science" title="Skills:Science">Science&#160;III</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Engineering#Electronics_Upgrades" title="Skills:Engineering">Electronics Upgrades&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Data Analyzer I; 'Ligature' Integrated Analyzer; Purloined Sansha Data Analyzer
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Amarr_Encryption_Methods" title="Skills:Science">Amarr Encryption Methods</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Caldari_Encryption_Methods" title="Skills:Science">Caldari Encryption Methods</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Gallente_Encryption_Methods" title="Skills:Science">Gallente Encryption Methods</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Science#Minmatar_Encryption_Methods" title="Skills:Science">Minmatar Encryption Methods</a></span>
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Data Analyzer II, 'Zeugma' Integrated Analyzer
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>If you run a lot of Data sites, training this to from IV to V gives you a big boost, because you get the bonus from the skill, and also the bonuses from being able to use a Data Analyzer II.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Survey"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Survey</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at operating ship, cargo and survey scanners. 5% improvement per level in the scan speeds of those module types.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Intelligence" style="cursor: help;"><img alt="Intelligence.png" src="/images/thumb/5/5b/Intelligence.png/32px-Intelligence.png" width="32" height="32" /></span><span title="Secondary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 36k ISK">36k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level III">III</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Engineering#CPU_Management" title="Skills:Engineering">CPU Management&#160;I</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Quest/Discovery Survey probe I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Scanning#Archaeology" title="Skills:Scanning">Archaeology</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Resource_Processing#Salvaging" title="Skills:Resource Processing">Salvaging</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Gaze Survey Probe I
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Mostly of interest to professional suicide gankers, since it lets them scan potential targets quickly to see what they might be carrying that's valuable.<br />
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 26731/1000000
+Post-expand include size: 46320/2097152 bytes
+Template argument size: 12148/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki-wiki_:pcache:idhash:7323-0!*!0!!en!2!* and timestamp 20190220193148 -->
+</div>                                <!-- /bodycontent -->
+ 
+                                                                <!-- printfooter -->
+                                <div class="printfooter">
+                                Retrieved from "<a href="https://wiki.eveuniversity.org/index.php?title=Skills:Scanning&amp;oldid=121906">https://wiki.eveuniversity.org/index.php?title=Skills:Scanning&amp;oldid=121906</a>"                                </div>
+                                <!-- /printfooter -->
+                                                                                                <!-- catlinks -->
+                                <div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Skills" title="Category:Skills">Skills</a></li></ul></div></div>                                <!-- /catlinks -->
+                                                                                                <div class="visualClear"></div>
+                                <!-- debughtml -->
+                                                                <!-- /debughtml -->
+                        </div>
+                        <!-- /bodyContent -->
+                </div>
+                <!-- /content -->
+ 
+                <!-- header -->
+    <div id="mw-head" class="noprint">
+      
+<!-- 0 -->
+<div id="p-personal" class="">
+        <h5>Personal tools</h5>
+        <ul>
+                <li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skills%3AScanning" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 
+        </ul>
+</div>
+
+<!-- /0 -->
+   
+      <div id="left-navigation">
+         
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+        <h5>Namespaces</h5>
+        <ul>
+                                        <li  id="ca-nstab-main" class="selected"><span><a href="/Skills:Scanning"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+                                        <li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Skills:Scanning&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+                <h5><span>Variants</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+      </div>
+      <div id="right-navigation">
+        
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+        <h5>Views</h5>
+        <ul>
+                                        <li id="ca-view" class="selected"><span><a href="/Skills:Scanning" >View</a></span></li>
+                                        <li id="ca-viewsource"><span><a href="/index.php?title=Skills:Scanning&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+                                        <li id="ca-history" class="collapsible"><span><a href="/index.php?title=Skills:Scanning&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+        <h5><span>Actions</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-search">
+        <h5><label for="searchInput">Search</label></h5>
+        <form action="/index.php" id="searchform">
+                <input type='hidden' name="title" value="Special:Search"/>
+                                <div id="simpleSearch">
+                                                <input name="search" title="Search UniWiki [f]" accesskey="f" id="searchInput" />                                                <button name="button" title="Search the pages for this text" id="searchButton"><img src="/skins/vectorinvert/images/search-ltr.png?303" alt="Search" /></button>                                        </div>
+                        </form>
+</div>
+
+<!-- /0 -->
+      </div>
+    </div>
+        <!-- /header -->
+ 
+                <!-- panel -->
+                        <div id="mw-panel" class="noprint">
+                                <!-- logo -->
+                                        <div id="p-logo"><a style="background-image: url(/skins/common/images/logo.png);" href="/Main_Page"  title="Visit the main page"></a></div>
+                                <!-- /logo -->
+                                
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+        <h5>Navigation</h5>
+        <div class="body">
+                <ul>
+<li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Categories"><a href="/Special:Categories">Categories</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="/Help:Contents" title="The place to find out">Help</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- EVE University -->
+<div class="portal" id='p-EVE_University'>
+        <h5>EVE University</h5>
+        <div class="body">
+                <ul>
+<li id="n-Join-E-UNI"><a href="/Applying_to_EVE_University">Join E-UNI</a></li><li id="n-Forum"><a href="http://forum.eveuniversity.org" rel="nofollow" target="_blank">Forum</a></li><li id="n-Class-Library"><a href="/EVE_University_Class_Library">Class Library</a></li><li id="n-Attending-a-Class"><a href="/Classes">Attending a Class</a></li><li id="n-Calendar"><a href="http://calendar.eveuniversity.org" rel="nofollow" target="_blank">Calendar</a></li><li id="n-Killboard"><a href="http://killboard.eveuniversity.org" rel="nofollow" target="_blank">Killboard</a></li><li id="n-Members"><a href="http://members.eveuniversity.org" rel="nofollow" target="_blank">Members</a></li><li id="n-Standings"><a href="http://standings.eveuniversity.org" rel="nofollow" target="_blank">Standings</a></li><li id="n-News"><a href="http://www.eveuniversity.org" rel="nofollow" target="_blank">News</a></li><li id="n-Donate"><a href="/Donating_to_EVE_University">Donate</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /EVE University -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+        <h5>Toolbox</h5>
+        <div class="body">
+                <ul>
+<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Skills:Scanning" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Skills:Scanning" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li><a href="/index.php?title=Skills:Scanning&amp;printable=yes" rel="alternate">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Skills:Scanning&amp;oldid=121906" title="Permanent link to this revision of the page">Permanent link</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+                        </div>
+                <!-- /panel -->
+                <!-- footer -->
+                <div id="footer">
+                                                        <ul id="footer-info">
+                                                                                        <li id="footer-info-lastmod"> This page was last modified on 11 May 2017, at 13:20.</li>
+                                                                                        <li id="footer-info-viewcount">This page has been accessed 37,322 times.</li>
+                                                                                        <li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a>.</li>
+                                                                        </ul>
+                                                        <ul id="footer-places">
+                                                                                        <li id="footer-places-privacy"><a href="/UniWiki:Privacy_policy" title="UniWiki:Privacy policy">Privacy policy</a></li>
+                                                                                        <li id="footer-places-about"><a href="/UniWiki:About" title="UniWiki:About">About UniWiki</a></li>
+                                                                                        <li id="footer-places-disclaimer"><a href="/UniWiki:General_disclaimer" title="UniWiki:General disclaimer">Disclaimers</a></li>
+                                                                        </ul>
+                                                                                <ul id="footer-icons" class="noprint">
+                                        <li id="footer-copyrightico">
+                                                <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Creative Commons" width="88" height="31" /></a>                                        </li>
+                                        <li id="footer-poweredbyico">
+                                                <a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>                                                <a href="https://billing.dediserve.com/?affid=68"><img src="/images/dediserve_88x31.gif" alt="Powered by Dediserve" width="88" height="31" /></a>                                        </li>
+                                </ul>
+                                                <div style="clear:both"></div>
+                </div>
+                <!-- /footer -->
+                <!-- fixalpha -->
+                <script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+                <!-- /fixalpha -->
+                <script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector%2Cvectorinvert&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.vector.collapsibleTabs","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18168954-1']);
+  _gaq.push(['_setDomainName', '.eveuniversity.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Served in 0.051 secs. --> 
+        </body>
+</html>

@@ -1,0 +1,1939 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Skills:Drones - UniWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.0" />
+<link rel="apple-touch-icon" href="/skins/common/images/logo.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="UniWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.eveuniversity.org/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="UniWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector%2Cvectorinvert&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vectorinvert&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skills:Drones","wgTitle":"Skills:Drones","wgCurRevisionId":128068,"wgArticleId":1700,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Skills"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Skills:Drones","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":false,"collapsibletabs":true,"editwarning":false,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":false,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":"MW_MATH_MATHJAX","minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vectorinvert","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,
+"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki-wiki_:resourceloader:filter:minify-js:7:9007fc0670442dca021e81c06c68e9eb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vectorinvert/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skills_Drones skin-vectorinvert action-view">
+                <div id="mw-page-base" class="noprint"></div>
+                <div id="mw-head-base" class="noprint"></div>
+                <!-- content -->
+                <div id="content">
+                        <a id="top"></a>
+                        <div id="mw-js-message" style="display:none;"></div>
+                                                <!-- firstHeading -->
+                        <h1 id="firstHeading" class="firstHeading">Skills:Drones</h1>
+                        <!-- /firstHeading -->
+                        <!-- bodyContent -->
+                        <div id="bodyContent">
+                                                                <!-- tagline -->
+                                <div id="siteSub">From UniWiki</div>
+                                <!-- /tagline -->
+                                                                <!-- subtitle -->
+                                <div id="contentSub"></div>
+                                <!-- /subtitle -->
+                                                                                                                                <!-- jumpto -->
+                                <div id="jump-to-nav">
+                                        Jump to: <a href="#mw-head">navigation</a>,
+                                        <a href="#p-search">search</a>
+                                </div>
+                                <!-- /jumpto -->
+                                                                <!-- bodycontent -->
+                                <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 140px; float:right; clear:right; margin-left:1em; margin-bottom:1em; border:1px solid #202020; padding:1px; border-collapse:collapse; text-align:center; font-size:11px">
+
+<tr>
+<th style="background:#000000; font-size:12px;"> Lists of <a href="/Skills_and_Learning" title="Skills and Learning" class="mw-redirect">skills</a>
+</th></tr>
+<tr>
+<td style="background:#202020; font-size:11px;">
+<p><a href="/Starting_Skills" title="Starting Skills" class="mw-redirect">Starting Skills</a><br />
+<a href="/Skills:Armor" title="Skills:Armor">Armor</a><br />
+<a href="/Skills:Corporation_Management" title="Skills:Corporation Management">Corporation Management</a><br />
+<strong class="selflink">Drones</strong><br />
+<a href="/Skills:Electronic_Systems" title="Skills:Electronic Systems">Electronic Systems</a><br />
+<a href="/Skills:Engineering" title="Skills:Engineering">Engineering</a><br />
+<a href="/Skills:Fleet_Support" title="Skills:Fleet Support">Fleet Support</a><br />
+<a href="/Skills:Gunnery" title="Skills:Gunnery">Gunnery</a><br />
+<a href="/Skills:Missiles" title="Skills:Missiles">Missiles</a><br />
+<a href="/Skills:Navigation" title="Skills:Navigation">Navigation</a><br />
+<a href="/Skills:Neural_Enhancement" title="Skills:Neural Enhancement">Neural Enhancement</a><br />
+<a href="/Skills:Planet_Management" title="Skills:Planet Management">Planet Management</a><br />
+<a href="/Skills:Production" title="Skills:Production">Production</a><br />
+<a href="/Skills:Resource_Processing" title="Skills:Resource Processing">Resource Processing</a><br />
+<a href="/Skills:Rigging" title="Skills:Rigging">Rigging</a><br />
+<a href="/Skills:Scanning" title="Skills:Scanning">Scanning</a><br />
+<a href="/Skills:Science" title="Skills:Science">Science</a><br />
+<a href="/Skills:Shields" title="Skills:Shields">Shields</a><br />
+<a href="/Skills:Social" title="Skills:Social">Social</a><br />
+<a href="/Skills:Spaceship_Command" title="Skills:Spaceship Command">Spaceship Command</a><br />
+<a href="/Skills:Structure_Management" title="Skills:Structure Management">Structure Management</a><br />
+<a href="/Skills:Subsystems" title="Skills:Subsystems">Subsystems</a><br />
+<a href="/Skills:Targeting" title="Skills:Targeting">Targeting</a><br />
+<a href="/Skills:Trade" title="Skills:Trade">Trade</a>
+</p>
+</td></tr></table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Combat_Drone_Control_Skills"><span class="tocnumber">2</span> <span class="toctext">Combat Drone Control Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Drones"><span class="tocnumber">2.1</span> <span class="toctext">Drones</span></a></li>
+<li class="toclevel-2"><a href="#Light_Drone_Operation"><span class="tocnumber">2.2</span> <span class="toctext">Light Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Medium_Drone_Operation"><span class="tocnumber">2.3</span> <span class="toctext">Medium Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Heavy_Drone_Operation"><span class="tocnumber">2.4</span> <span class="toctext">Heavy Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Sentry_Drone_Interfacing"><span class="tocnumber">2.5</span> <span class="toctext">Sentry Drone Interfacing</span></a></li>
+<li class="toclevel-2"><a href="#Advanced_Drone_Avionics"><span class="tocnumber">2.6</span> <span class="toctext">Advanced Drone Avionics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Racial_Drone_Specializations"><span class="tocnumber">3</span> <span class="toctext">Racial Drone Specializations</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Amarr_Drone_Specialization"><span class="tocnumber">3.1</span> <span class="toctext">Amarr Drone Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Caldari_Drone_Specialization"><span class="tocnumber">3.2</span> <span class="toctext">Caldari Drone Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Gallente_Drone_Specialization"><span class="tocnumber">3.3</span> <span class="toctext">Gallente Drone Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Minmatar_Drone_Specialization"><span class="tocnumber">3.4</span> <span class="toctext">Minmatar Drone Specialization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Drone_Support_Skills"><span class="tocnumber">4</span> <span class="toctext">Drone Support Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Drone_Avionics"><span class="tocnumber">4.1</span> <span class="toctext">Drone Avionics</span></a></li>
+<li class="toclevel-2"><a href="#Drone_Durability"><span class="tocnumber">4.2</span> <span class="toctext">Drone Durability</span></a></li>
+<li class="toclevel-2"><a href="#Drone_Interfacing"><span class="tocnumber">4.3</span> <span class="toctext">Drone Interfacing</span></a></li>
+<li class="toclevel-2"><a href="#Drone_Navigation"><span class="tocnumber">4.4</span> <span class="toctext">Drone Navigation</span></a></li>
+<li class="toclevel-2"><a href="#Drone_Sharpshooting"><span class="tocnumber">4.5</span> <span class="toctext">Drone Sharpshooting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Non-Combat_Drone_Control_Skills"><span class="tocnumber">5</span> <span class="toctext">Non-Combat Drone Control Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Ice_Harvesting_Drone_Operation"><span class="tocnumber">5.1</span> <span class="toctext">Ice Harvesting Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Ice_Harvesting_Drone_Specialization"><span class="tocnumber">5.2</span> <span class="toctext">Ice Harvesting Drone Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Mining_Drone_Operation"><span class="tocnumber">5.3</span> <span class="toctext">Mining Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Mining_Drone_Specialization"><span class="tocnumber">5.4</span> <span class="toctext">Mining Drone Specialization</span></a></li>
+<li class="toclevel-2"><a href="#Repair_Drone_Operation"><span class="tocnumber">5.5</span> <span class="toctext">Repair Drone Operation</span></a></li>
+<li class="toclevel-2"><a href="#Salvage_Drone_Operation"><span class="tocnumber">5.6</span> <span class="toctext">Salvage Drone Operation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Fighter_Skills"><span class="tocnumber">6</span> <span class="toctext">Fighter Skills</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Fighters"><span class="tocnumber">6.1</span> <span class="toctext">Fighters</span></a></li>
+<li class="toclevel-2"><a href="#Light_Fighters"><span class="tocnumber">6.2</span> <span class="toctext">Light Fighters</span></a></li>
+<li class="toclevel-2"><a href="#Heavy_Fighters"><span class="tocnumber">6.3</span> <span class="toctext">Heavy Fighters</span></a></li>
+<li class="toclevel-2"><a href="#Support_Fighters"><span class="tocnumber">6.4</span> <span class="toctext">Support Fighters</span></a></li>
+<li class="toclevel-2"><a href="#Fighter_Hangar_Management"><span class="tocnumber">6.5</span> <span class="toctext">Fighter Hangar Management</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#References"><span class="tocnumber">6.6</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Overview">Overview</span></h1>
+<dl><dd><i>See also: <a href="/Drones#Skills" title="Drones">Drone skills</a></i>
+</dd></dl>
+<p>Some training in the Drones category is essential for most PvE and PvP combat. Drones are a useful source of additional DPS, and they are also a key defence against small ships for large ships.
+</p><p>Almost every ship larger than a destroyer has a dronebay. Caldari ships tend to have the smallest dronebays, but even Caldari pilots should aim to be able to field a full flight of five light drones when they start flying battlecruisers.
+</p><p>Memory and perception are important in learning how to operate drones.
+</p><p>The following are the skills in the Drones section (in alphabetical order):
+</p>
+<table class="wikitable">
+<tr>
+<th>Skill
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Advanced_Drone_Avionics" title="Skills:Drones">Advanced Drone Avionics</a></span>
+</td>
+<td>Allows control of <a href="/Drones#Electronic_warfare_drones" title="Drones">EWAR drones</a>. Bonus to drone control range.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Amarr_Drone_Specialization" title="Skills:Drones">Amarr Drone Specialization</a></span>
+</td>
+<td>Allows control of T2 Amarr drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Caldari_Drone_Specialization" title="Skills:Drones">Caldari Drone Specialization</a></span>
+</td>
+<td>Allows control of T2 Caldari drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Avionics" title="Skills:Drones">Drone Avionics</a></span>
+</td>
+<td>Bonus to drone control range.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Durability" title="Skills:Drones">Drone Durability</a></span>
+</td>
+<td>Bonus to drone shield, armor, structure.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Interfacing" title="Skills:Drones">Drone Interfacing</a></span>
+</td>
+<td>Bonus to drone damage and mining amount.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Navigation" title="Skills:Drones">Drone Navigation</a></span>
+</td>
+<td>Bonus to drone microwarpdrive speed
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Sharpshooting" title="Skills:Drones">Drone Sharpshooting</a></span>
+</td>
+<td>Bonus to drone optimal range.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones</a></span>
+</td>
+<td>Allows control of drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighter_Hangar_Management" title="Skills:Drones">Fighter Hangar Management</a></span>
+</td>
+<td>Increases fighter hangar size.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters</a></span>
+</td>
+<td>Allows control of Fighters.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Gallente_Drone_Specialization" title="Skills:Drones">Gallente Drone Specialization</a></span>
+</td>
+<td>Allows control of T2 Gallente drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Heavy_Drone_Operation" title="Skills:Drones">Heavy Drone Operation</a></span>
+</td>
+<td>Allows control of Heavy Drones. Bonus to Heavy Drone damage.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Heavy_Fighters" title="Skills:Drones">Heavy Fighters</a></span>
+</td>
+<td>Allows control of Heavy Fighters.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Ice_Harvester_Drone_Operation" title="Skills:Drones">Ice Harvester Drone Operation</a></span>
+</td>
+<td>Allows control of Ice Harvesting Drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Ice_Harvester_Drone_Specialization" title="Skills:Drones">Ice Harvester Drone Specialization</a></span>
+</td>
+<td>Allows control of advanced Ice Harvesting Drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Light_Drone_Operation" title="Skills:Drones">Light Drone Operation</a></span>
+</td>
+<td>Allows control of Light Drones. Bonus to Light Drone damage.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Light_Fighters" title="Skills:Drones">Light Fighters</a></span>
+</td>
+<td>Allow control of Light Fighters.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Medium_Drone_Operation" title="Skills:Drones">Medium Drone Operation</a></span>
+</td>
+<td>Allows control of Medium Drones. Bonus to Medium Drone damage.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Mining_Drone_Operation" title="Skills:Drones">Mining Drone Operation</a></span>
+</td>
+<td>Allows control of Mining Drones. Bonus to Mining Drone Yield.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Mining_Drone_Specialization" title="Skills:Drones">Mining Drone Specialization</a></span>
+</td>
+<td>Allows control of advanced Mining Drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Minmatar_Drone_Specialization" title="Skills:Drones">Minmatar Drone Specialization</a></span>
+</td>
+<td>Allows control of T2 Minmatar drones.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Repair_Drone_Operation" title="Skills:Drones">Repair Drone Operation</a></span>
+</td>
+<td>Allows control of Repair Drones. Bonus to Repair Drone amount.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Salvage_Drone_Operation" title="Skills:Drones">Salvage Drone Operation</a></span>
+</td>
+<td>Allows control of Salvage Drones. Bonus to drone salvage chance.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Sentry_Drone_Interfacing" title="Skills:Drones">Sentry Drone Interfacing</a></span>
+</td>
+<td>Allows control of Sentry Drones. Bonus to sentry drone damage.
+</td></tr>
+<tr>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Support_Fighters" title="Skills:Drones">Support Fighters</a></span>
+</td>
+<td>Allows control of Support Fighters.
+</td></tr></table>
+<h1> <span class="mw-headline" id="Combat_Drone_Control_Skills">Combat Drone Control Skills</span></h1>
+<h2> <span class="mw-headline" id="Drones"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drones</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at remote controlling drones. Can operate 1 drone per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 20k ISK">20k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td>None
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Drone Damage Amplifiers; Mining Drones; Ice Harvesting Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Drone_Avionics" title="Skills:Drones">Drone Avionics</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Mining_Drone_Operation" title="Skills:Drones">Mining Drone Operation</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Ice_Harvester_Drone_Operation" title="Skills:Drones">Ice Harvester Drone Operation</a></span>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Tech 1, 'Integrated', and Empire Faction Light/Medium Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Subsystems#Amarr_Offensive_Systems" title="Skills:Subsystems">Amarr Offensive Systems</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Subsystems#Gallente_Offensive_Systems" title="Skills:Subsystems">Gallente Offensive Systems</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Light_Drone_Operation" title="Skills:Drones">Light Drone Operation</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Medium_Drone_Operation" title="Skills:Drones">Medium Drone Operation</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Drone Damage Amplifier II; Salvage Drone I; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Drone_Durability" title="Skills:Drones">Drone Durability</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Salvage_Drone_Operation" title="Skills:Drones">Salvage Drone Operation</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Drone_Navigation" title="Skills:Drones">Drone Navigation</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Heavy Drones; EWAR Drones; Shield Maintenance Bots; Armor Maintenance Bots; Hull Maintenance Bots; 'Augmented' Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Advanced_Drone_Avionics" title="Skills:Drones">Advanced Drone Avionics</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Drone_Interfacing" title="Skills:Drones">Drone Interfacing</a></span>, <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Drone_Sharpshooting" title="Skills:Drones">Drone Sharpshooting</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Repair_Drone_Operation" title="Skills:Drones">Repair Drone Operation</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Heavy_Drone_Operation" title="Skills:Drones">Heavy Drone Operation</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Amarr_Drone_Specialization" title="Skills:Drones">Amarr Drone Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Caldari_Drone_Specialization" title="Skills:Drones">Caldari Drone Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Gallente_Drone_Specialization" title="Skills:Drones">Gallente Drone Specialization</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Minmatar_Drone_Specialization" title="Skills:Drones">Minmatar Drone Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>The basic skill of the Drones category. Prerequisite for most other drone skills and an essential skill to train to level V for any pilot who flies anything with a 25m3 or larger dronebay.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Light_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Light Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling light <a href="/Drones#Subcapital_combat_drones" title="Drones">combat drones</a>. 5% Bonus to damage of light drones per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 50k ISK">50k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1, 'Integrated', and Empire Faction Light Drones
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Light Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A 5% drone damage bonus is not to be sniffed at, and most combat pilots should train this skill to IV.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Medium_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Medium Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling medium <a href="/Drones#Subcapital_combat_drones" title="Drones">combat drones</a>. 5% Bonus to damage of light drones per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level V">V</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;III</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1, 'Integrated', and Empire Faction Medium Drones
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Medium Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A 5% drone damage bonus is not to be sniffed at, and most combat pilots should train this skill to IV.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling heavy <a href="/Drones#Subcapital_combat_drones" title="Drones">combat drones</a>. 5% Bonus to heavy drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 380k ISK">380k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1, 'Integrated', and Empire Faction Heavy Drones; Gecko
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Heavy Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Not all races have subcapital ships with big enough dronebays to justify using heavy drones, but Gallente battleship pilots, Amarr pilots who fly the Armageddon and Minmatar pilots who fly the Typhoon should train for them.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Sentry_Drone_Interfacing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Sentry Drone Interfacing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling <a href="/Drones#Sentry_Drones" title="Drones">sentry drones</a>. 5% bonus to Sentry Drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 450k ISK">450k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Interfacing" title="Skills:Drones">Drone Interfacing&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Sharpshooting" title="Skills:Drones">Drone Sharpshooting&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Sentry Drones
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Sentry Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Sentry drones are specialised, and large, and so like heavy drones they're mostly of interest to pilots who can fly ships with 125m3 or more of space in their dronebay. Level V lets you use T2 sentry drones.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Advanced_Drone_Avionics"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Advanced Drone Avionics</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">This skill is required for the operation of <a href="/Drones#Electronic_warfare_drones" title="Drones">Electronic Warfare Drones</a> but also gives a bonus to the control range of all drones.<br />
+<p><br />
+</p>
+3,000m bonus drone control range per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 400k ISK">400k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Electronic_Systems#Electronic_Warfare" title="Skills:Electronic Systems">Electronic Warfare&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Small EWAR Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Medium EWAR Drones
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Large EWAR Dones
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>The drone control range bonus applies to <b>all</b> types of drones, not just electronic warfare drones. ECM drones are a useful ace-in-the-hole in PvP.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Racial_Drone_Specializations">Racial Drone Specializations</span></h1>
+<h2> <span class="mw-headline" id="Amarr_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Amarr Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in the operation of advanced Amarr drones. 2% bonus to advanced Amarr drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 2-4M ISK">2-4M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Amarr Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>This skill is not seeded in NPC stations so prices will vary widely.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Caldari_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Caldari Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in the operation of advanced Caldari drones. 2% bonus to advanced Caldari drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 3-9M ISK">3-9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Caldari Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>This skill is not seeded in NPC stations so prices will vary widely.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Gallente_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Gallente Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in the operation of advanced Gallente drones. 2% bonus to advanced Gallente drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 3-9M ISK">3-9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Gallente Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>This skill is not seeded in NPC stations so prices will vary widely. Gallente drones are very popular because they have good damage modifiers, and a damage type (thermal) which is reliably useful against most PvE and PvP enemies.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Minmatar_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Minmatar Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Specialization in the operation of advanced Minmatar drones. 2% bonus to advanced Minmatar drone damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 3-9M ISK">3-9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Minmatar Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>This skill is not seeded in NPC stations so prices will vary widely. Minmatar drones are very popular for PvP because they are the fastest drones and although they don't do as much raw damage as Gallente drones they do explosive damage, which hits most armor tanks hard.
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Drone_Support_Skills">Drone Support Skills</span></h1>
+<h2> <span class="mw-headline" id="Drone_Avionics"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drone Avionics</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at control range for all drones.<br />
+<p><br />
+</p>
+Bonus: drone control range increased by 5000 meters per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 40k ISK">40k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;I</a></span>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Tech 1 and Officer Drone Link Augmentors
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Black Eagle Drone Link Augmentor
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Drone Link Augmentor II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A useful skill to allow drones to attack targets farther from your ship.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Drone_Durability"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drone Durability</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Increases drone hit points. 5% bonus to drone shield, armor and hull hit points per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 50k ISK">50k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Repair_Drone_Operation" title="Skills:Drones">Repair Drone Operation</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Increasing drone hit points decreases the chance of losing drones, and thus saves money by reducing the number of drones you need to replace.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Drone_Interfacing"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drone Interfacing</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows a captain to better maintain its drones. 10% bonus to drone damage, drone mining yield per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 500k ISK">500k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Sentry_Drone_Interfacing" title="Skills:Drones">Sentry Drone Interfacing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td><span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Amarr_Carrier" title="Skills:Spaceship Command">Amarr Carrier</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Caldari_Carrier" title="Skills:Spaceship Command">Caldari Carrier</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Gallente_Carrier" title="Skills:Spaceship Command">Gallente Carrier</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Spaceship_Command#Minmatar_Carrier" title="Skills:Spaceship Command">Minmatar Carrier</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Each level of Drone Interfacing is like having half of another drone. Excellent support skill.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Drone_Navigation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drone Navigation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling drones at high speeds. 5% increase in drone MicroWarpdrive speed per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100k ISK">100k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Warrior SW-300
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Valkyrie SW-600
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Tech 1 and Faction Drone Navigation Computers; Berserker SW-900
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Drone Navigation Computer II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Faster drones means they get to the target and deal damage, and then return to you when you need them back, quicker. High levels in Drone Navigation also help your drones chase fast PvP targets like interceptors. <br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Drone_Sharpshooting"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Drone Sharpshooting</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Increases drone optimal range.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill has the shortest training time possible. It will take approximately 8 minutes to train to level I, 4 hours to train to level III, and 6 days to train to level V (assuming no implants or neural remaps).">1x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 150k ISK">150k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level IV">IV</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Omnidirectional Tracking Links/Enhancers
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Omnidirectional Tracking Enhancer II; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Sentry_Drone_Interfacing" title="Skills:Drones">Sentry Drone Interfacing</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Omnidirectional Tracking Link II
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>5% optimal range per level. Possibly not so important for normal combat drones, which can move around on their own. If you rely on long-ranged, stationary sentry drones then this skill will help them.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Non-Combat_Drone_Control_Skills">Non-Combat Drone Control Skills</span></h1>
+<h2> <span class="mw-headline" id="Ice_Harvesting_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ice Harvesting Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling <a href="/Drones#Ice_Harvesting_Drones" title="Drones">ice harvesting drones</a>. 5% reduction in ice harvesting drone cycle time per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 80K ISK">80K&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Ice_Harvesting" title="Skills:Resource Processing">Ice Harvesting&#160;II</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Ice Harvesting Drone I
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2, 'Excavator', and 'Augmented' Ice Harvesting Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Ice_Harvester_Drone_Specialization" title="Skills:Drones">Ice Harvester Drone Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Ice_Harvesting_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Ice Harvesting Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Advanced proficiency at controlling <a href="/Drones#Ice_Harvesting_Drones" title="Drones">ice harvesting drones</a>. 2% reduction in cycle time and bonus to max velocity of drones requiring Ice Harvesting Drone Specialization per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 18M ISK">18M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Ice_Harvester_Drone_Operation" title="Skills:Drones">Ice Harvester Drone Operation&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Ice_Harvesting" title="Skills:Resource Processing">Ice Harvesting&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 2, 'Excavator', and 'Augmented' Ice Harvesting Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Required for advanced ice harvester drone use.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Mining_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Mining Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling <a href="/Drones#Mining_drones" title="Drones">mining drones</a>. 5% Bonus to mining drone yield per skill level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 2x as long to train compared to a skill with a multiplier of 1x. It will take approximately 17 minutes to train to level I, 9 hours to train to level III, and 12 days to train to level V (assuming no implants or neural remaps).">2x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 40k ISK">40k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;I</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;II</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1, Harvester, and 'Excavator' Mining Drones
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 and 'Augmented' Mining Drones; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Mining_Drone_Specialization" title="Skills:Drones">Mining Drone Specialization</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>A useful support skill for miners.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Mining_Drone_Specialization"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Mining Drone Specialization</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Advanced proficiency at controlling <a href="/Drones#Mining_drones" title="Drones">mining drones</a>. 2% bonus to the mining yield and max velocity of drones requiring Mining Drone Specialization per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 5x as long to train compared to a skill with a multiplier of 1x. It will take approximately 41 minutes to train to level I, 22 hours to train to level III, and 30 days to train to level V (assuming no implants or neural remaps).">5x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 9M ISK">9M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Mining_Drone_Operation" title="Skills:Drones">Mining Drone Operation&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Mining" title="Skills:Resource Processing">Mining&#160;IV</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>'Excavator' and 'Augmented' Mining Drones
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Required for advanced mining drone use. Currently the T2 mining drone does not require or benefit from this skill, but that is scheduled to change.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Repair_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Repair Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows operation of <a href="/Drones#Logistics_drones" title="Drones">logistic drones</a>. 5% increased repair amount per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 3x as long to train compared to a skill with a multiplier of 1x. It will take approximately 25 minutes to train to level I, 13 hours to train to level III, and 18 days to train to level V (assuming no implants or neural remaps).">3x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 200k ISK">200k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can train and use this skill to at most level II">II</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Durability" title="Skills:Drones">Drone Durability&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Light Armor/Shield/Hull Maintenance Bots
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>II required for:</b>
+</td>
+<td>Tech 1 Medium Armor/Shield/Hull Maintenance Bots
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>III required for:</b>
+</td>
+<td>Tech 1 Heavy Armor/Shield/Hull Maintenance Bots
+</td></tr>
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Armor/Shield/Hull Maintenance Bots
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Repair drones can be a useful augmentation to a remote repair effort, but don't expect them to perform nearly as well as a properly fitted and piloted logistics ship. Remember that you can't order your drones to repair yourself.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Salvage_Drone_Operation"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Salvage Drone Operation</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Skill at controlling <a href="/Drones#Salvage_drones" title="Drones">salvage drones</a>. 2% increased salvage chance per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 4x as long to train compared to a skill with a multiplier of 1x. It will take approximately 33 minutes to train to level I, 18 hours to train to level III, and 24 days to train to level V (assuming no implants or neural remaps).">4x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 220k ISK">220k&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drones" title="Skills:Drones">Drones&#160;IV</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Resource_Processing#Salvaging" title="Skills:Resource Processing">Salvaging&#160;II</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Salvage Drone I
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Salvage drones can recover salvage from wrecks and bring them to your cargo hold.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h1> <span class="mw-headline" id="Fighter_Skills">Fighter Skills</span></h1>
+<h2> <span class="mw-headline" id="Fighters"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Fighters</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows operation of fighter craft. 5% increase in fighter damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 12x as long to train compared to a skill with a multiplier of 1x. It will take approximately 2 hours to train to level I, 2 days to train to level III, and 10 weeks to train to level V (assuming no implants or neural remaps).">12x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 50M ISK">50M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Drone_Interfacing" title="Skills:Drones">Drone Interfacing&#160;V</a></span>; <span style="white-space:nowrap;"><a href="/Skills:Fleet_Support#Leadership" title="Skills:Fleet Support">Leadership&#160;V</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Light/Heavy/Support Fighters; Shadow; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Fighter_Hangar_Management" title="Skills:Drones">Fighter Hangar Management</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Heavy_Fighters" title="Skills:Drones">Heavy Fighters</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Light_Fighters" title="Skills:Drones">Light Fighters</a></span>; <span style="white-space:nowrap;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<a href="/Skills:Drones#Support_Fighters" title="Skills:Drones">Support Fighters</a></span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>V required for:</b>
+</td>
+<td>Tech 2 Light/Heavy/Support Fighters
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Only carriers and supercarriers can use fighters.<br />
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Light_Fighters"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Light Fighters</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows operation of light fighter craft. 5% increase in light fighter velocity per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 12x as long to train compared to a skill with a multiplier of 1x. It will take approximately 2 hours to train to level I, 2 days to train to level III, and 10 weeks to train to level V (assuming no implants or neural remaps).">12x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100M ISK">100M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Light Fighters
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Tech 2 Light Fighters
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Light fighters can be used by both carriers and supercarriers. Before the Citadel expansion, these were known simply as "fighters".
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Heavy_Fighters"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Heavy Fighters</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows operation of heavy fighter craft. 5% increase in heavy fighter damage per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 12x as long to train compared to a skill with a multiplier of 1x. It will take approximately 2 hours to train to level I, 2 days to train to level III, and 10 weeks to train to level V (assuming no implants or neural remaps).">12x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100M ISK">100M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Heavy Fighters; Shadow
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Tech 2 Heavy Fighters
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Only of interest to supercarrier pilots, since only supercarriers can use heavy fighters. Before the Citadel expansion, these were known as "fighter bombers".
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Support_Fighters"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Support Fighters</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">Allows operation of support fighter craft. 5% increase in support fighter hit-points per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 12x as long to train compared to a skill with a multiplier of 1x. It will take approximately 2 hours to train to level I, 2 days to train to level III, and 10 weeks to train to level V (assuming no implants or neural remaps).">12x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 100M ISK">100M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 Support Fighters
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Tech 2 Support Fighters
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td>Support fighters can be used by both carriers and supercarriers. They were introduced in the Citadel expansion.
+</td></tr></table>
+</div>
+<p><br />
+</p><p><br />
+</p>
+<h2> <span class="mw-headline" id="Fighter_Hangar_Management"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/32px-Icon_skillbook2.png" width="32" height="32" /> Fighter Hangar Management</span></h2>
+<div style="background-image: linear-gradient(#070303, #170707); background-color: #170707; border: 1px solid #473737; margin-left: 20pt; margin-right: 20pt; margin-bottom: 10pt; padding: 5pt;">5% bonus to Fighter Hangar size per level.</div>
+<div style="background-image: linear-gradient(#101010, #202020); background-color: #202020; border: 1px solid #404040; margin-left: 20pt; margin-right: 20pt;">
+<table>
+
+<tr>
+<td style="vertical-align: top; width: 100pt;"><img alt="Implants.png" src="/images/thumb/b/bf/Implants.png/16px-Implants.png" width="16" height="16" />&#160;<b>Attributes:</b>
+</td>
+<td><span title="Primary Attribute: Memory" style="cursor: help;"><img alt="Memory.png" src="/images/thumb/e/eb/Memory.png/32px-Memory.png" width="32" height="32" /></span><span title="Secondary Attribute: Perception" style="cursor: help;"><img alt="Perception.png" src="/images/thumb/f/f6/Perception.png/32px-Perception.png" width="32" height="32" /></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Multiplier.png" src="/images/3/39/Multiplier.png" width="16" height="16" />&#160;<b>Multiplier:</b>
+</td>
+<td><span style="cursor: help;" title="This skill takes 8x as long to train compared to a skill with a multiplier of 1x. It will take approximately 1 hour to train to level I, 1 day to train to level III, and 7 weeks to train to level V (assuming no implants or neural remaps).">8x</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Isk.png" src="/images/thumb/9/92/Isk.png/16px-Isk.png" width="16" height="16" />&#160;<b>Price:</b>
+</td>
+<td><span style="cursor: help;" title="The skillbook for this skill costs 15M ISK">15M&#160;ISK</span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Alpha.png" src="/images/thumb/a/a8/Alpha.png/16px-Alpha.png" width="16" height="16" />&#160;<b>Alpha max level:</b>
+</td>
+<td><span style="cursor: help;" title="Alpha pilot can not train nor use this skill"><i>Alpha pilot can not train this skill.</i></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>Prerequisites:</b>
+</td>
+<td><span style="white-space:nowrap;"><a href="/Skills:Drones#Fighters" title="Skills:Drones">Fighters&#160;I</a></span>
+</td></tr>
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>I required for:</b>
+</td>
+<td>Tech 1 and Faction Fighter Support Units; Networked Sensor Array
+</td></tr>
+
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Icon skillbook2.png" src="/images/thumb/1/15/Icon_skillbook2.png/16px-Icon_skillbook2.png" width="16" height="16" />&#160;<b>IV required for:</b>
+</td>
+<td>Fighter Support Unit II
+</td></tr>
+
+
+
+<tr>
+<td style="vertical-align: top;"><img alt="Notes.png" src="/images/thumb/5/51/Notes.png/16px-Notes.png" width="16" height="16" />&#160;<b>Notes:</b>
+</td>
+<td><br />
+</td></tr></table>
+</div>
+<p><br />
+</p>
+<h2> <span class="mw-headline" id="References">References</span></h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">^</a> <a rel="nofollow" target="_blank" class="external free" href="https://community.eveonline.com/news/dev-blogs/mining-foreman-revolution/#DRONES">https://community.eveonline.com/news/dev-blogs/mining-foreman-revolution/#DRONES</a></li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 23504/1000000
+Post-expand include size: 155514/2097152 bytes
+Template argument size: 39408/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki-wiki_:pcache:idhash:1700-0!*!0!!en!2!* and timestamp 20190221070047 -->
+</div>                                <!-- /bodycontent -->
+ 
+                                                                <!-- printfooter -->
+                                <div class="printfooter">
+                                Retrieved from "<a href="https://wiki.eveuniversity.org/index.php?title=Skills:Drones&amp;oldid=128068">https://wiki.eveuniversity.org/index.php?title=Skills:Drones&amp;oldid=128068</a>"                                </div>
+                                <!-- /printfooter -->
+                                                                                                <!-- catlinks -->
+                                <div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Skills" title="Category:Skills">Skills</a></li></ul></div></div>                                <!-- /catlinks -->
+                                                                                                <div class="visualClear"></div>
+                                <!-- debughtml -->
+                                                                <!-- /debughtml -->
+                        </div>
+                        <!-- /bodyContent -->
+                </div>
+                <!-- /content -->
+ 
+                <!-- header -->
+    <div id="mw-head" class="noprint">
+      
+<!-- 0 -->
+<div id="p-personal" class="">
+        <h5>Personal tools</h5>
+        <ul>
+                <li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skills%3ADrones" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 
+        </ul>
+</div>
+
+<!-- /0 -->
+   
+      <div id="left-navigation">
+         
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+        <h5>Namespaces</h5>
+        <ul>
+                                        <li  id="ca-nstab-main" class="selected"><span><a href="/Skills:Drones"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+                                        <li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Skills:Drones&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+                <h5><span>Variants</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+      </div>
+      <div id="right-navigation">
+        
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+        <h5>Views</h5>
+        <ul>
+                                        <li id="ca-view" class="selected"><span><a href="/Skills:Drones" >View</a></span></li>
+                                        <li id="ca-viewsource"><span><a href="/index.php?title=Skills:Drones&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+                                        <li id="ca-history" class="collapsible"><span><a href="/index.php?title=Skills:Drones&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+                        </ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+        <h5><span>Actions</span><a href="#"></a></h5>
+        <div class="menu">
+                <ul>
+                                        </ul>
+        </div>
+</div>
+
+<!-- /0 -->
+
+<!-- 0 -->
+<div id="p-search">
+        <h5><label for="searchInput">Search</label></h5>
+        <form action="/index.php" id="searchform">
+                <input type='hidden' name="title" value="Special:Search"/>
+                                <div id="simpleSearch">
+                                                <input name="search" title="Search UniWiki [f]" accesskey="f" id="searchInput" />                                                <button name="button" title="Search the pages for this text" id="searchButton"><img src="/skins/vectorinvert/images/search-ltr.png?303" alt="Search" /></button>                                        </div>
+                        </form>
+</div>
+
+<!-- /0 -->
+      </div>
+    </div>
+        <!-- /header -->
+ 
+                <!-- panel -->
+                        <div id="mw-panel" class="noprint">
+                                <!-- logo -->
+                                        <div id="p-logo"><a style="background-image: url(/skins/common/images/logo.png);" href="/Main_Page"  title="Visit the main page"></a></div>
+                                <!-- /logo -->
+                                
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+        <h5>Navigation</h5>
+        <div class="body">
+                <ul>
+<li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Categories"><a href="/Special:Categories">Categories</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="/Help:Contents" title="The place to find out">Help</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- EVE University -->
+<div class="portal" id='p-EVE_University'>
+        <h5>EVE University</h5>
+        <div class="body">
+                <ul>
+<li id="n-Join-E-UNI"><a href="/Applying_to_EVE_University">Join E-UNI</a></li><li id="n-Forum"><a href="http://forum.eveuniversity.org" rel="nofollow" target="_blank">Forum</a></li><li id="n-Class-Library"><a href="/EVE_University_Class_Library">Class Library</a></li><li id="n-Attending-a-Class"><a href="/Classes">Attending a Class</a></li><li id="n-Calendar"><a href="http://calendar.eveuniversity.org" rel="nofollow" target="_blank">Calendar</a></li><li id="n-Killboard"><a href="http://killboard.eveuniversity.org" rel="nofollow" target="_blank">Killboard</a></li><li id="n-Members"><a href="http://members.eveuniversity.org" rel="nofollow" target="_blank">Members</a></li><li id="n-Standings"><a href="http://standings.eveuniversity.org" rel="nofollow" target="_blank">Standings</a></li><li id="n-News"><a href="http://www.eveuniversity.org" rel="nofollow" target="_blank">News</a></li><li id="n-Donate"><a href="/Donating_to_EVE_University">Donate</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /EVE University -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+        <h5>Toolbox</h5>
+        <div class="body">
+                <ul>
+<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Skills:Drones" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Skills:Drones" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li><a href="/index.php?title=Skills:Drones&amp;printable=yes" rel="alternate">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Skills:Drones&amp;oldid=128068" title="Permanent link to this revision of the page">Permanent link</a></li>                </ul>
+        </div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+                        </div>
+                <!-- /panel -->
+                <!-- footer -->
+                <div id="footer">
+                                                        <ul id="footer-info">
+                                                                                        <li id="footer-info-lastmod"> This page was last modified on 27 October 2017, at 11:25.</li>
+                                                                                        <li id="footer-info-viewcount">This page has been accessed 108,041 times.</li>
+                                                                                        <li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a>.</li>
+                                                                        </ul>
+                                                        <ul id="footer-places">
+                                                                                        <li id="footer-places-privacy"><a href="/UniWiki:Privacy_policy" title="UniWiki:Privacy policy">Privacy policy</a></li>
+                                                                                        <li id="footer-places-about"><a href="/UniWiki:About" title="UniWiki:About">About UniWiki</a></li>
+                                                                                        <li id="footer-places-disclaimer"><a href="/UniWiki:General_disclaimer" title="UniWiki:General disclaimer">Disclaimers</a></li>
+                                                                        </ul>
+                                                                                <ul id="footer-icons" class="noprint">
+                                        <li id="footer-copyrightico">
+                                                <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Creative Commons" width="88" height="31" /></a>                                        </li>
+                                        <li id="footer-poweredbyico">
+                                                <a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>                                                <a href="https://billing.dediserve.com/?affid=68"><img src="/images/dediserve_88x31.gif" alt="Powered by Dediserve" width="88" height="31" /></a>                                        </li>
+                                </ul>
+                                                <div style="clear:both"></div>
+                </div>
+                <!-- /footer -->
+                <!-- fixalpha -->
+                <script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+                <!-- /fixalpha -->
+                <script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector%2Cvectorinvert&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.vector.collapsibleTabs","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="https://wiki.eveuniversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vectorinvert&amp;*"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18168954-1']);
+  _gaq.push(['_setDomainName', '.eveuniversity.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Served in 0.056 secs. --> 
+        </body>
+</html>
